@@ -8,6 +8,6 @@ These materials have been developed independently by Jon Bird and colleagues at 
 
 These include ODK scripts and Android apps for guiding a verbal autopsy interview based on InterVA-5, processing the interview responses using the InterVA-5 model, and sending the interview data and cause of death results in a compressed, encrypted text message.
 
-The file [MIVAInterVA5.zip](https://github.com/peterbyass/InterVA-5/blob/master/MIVA%20mobile%20utilities%20for%20InterVA-5/MIVAInterVA5.zip) contains all this material and documentation. Any queries on using this material should be mailed to miva.query@gmail.com
+The file [MIVAInterVA5.zip](https://github.com/peterbyass/InterVA-5/blob/master/MIVA%20mobile%20utilities%20for%20InterVA-5/MIVAInterVA5.zip) can be downloaded and contains all this material and documentation. Any queries on using this material should be mailed to miva.query@gmail.com
 
 
