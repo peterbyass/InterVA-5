@@ -2,4 +2,3 @@
 
 # InterVA-5 evaluation using Afghanistan data
 
-
