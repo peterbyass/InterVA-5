@@ -7,8 +7,7 @@
 
 ## Resources are organised in the following sub-folders:
 
-###	title
-(Conceptual overview of InterVA-5)[https://github.com/peterbyass/InterVA-5/tree/master/Conceptual%20overview%20of%20InterVA-5]
+###	title (Conceptual overview of InterVA-5)[https://github.com/peterbyass/InterVA-5/tree/master/Conceptual%20overview%20of%20InterVA-5]
 ###	Download of InterVA-5 software
 ###	InterVA-5 evaluation using Afghanistan data
 ###	InterVA-5 evaluation using PHMRC data 
