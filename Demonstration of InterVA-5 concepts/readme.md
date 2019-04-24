@@ -8,5 +8,5 @@ Operationally, verbal autopsy interview data might come from already archived ma
 
 Whatever the source, the interview data have to be pre-processed into the input format required by InterVA-5 (which basically corresponds to the WHO 2016 VA standard), then InterVA-5 has to be run to process the individual cases, and then the InterVA-5 output data have to be analysed to yield overall results.
 
-The Powerpoint presentation here demonstrates the overall process of using InterVA-5.
+This slide presentation demonstrates the overall process of using InterVA-5.
 
