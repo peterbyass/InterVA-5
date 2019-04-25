@@ -1,0 +1,1307 @@
+iv5_id,malprev,hivprev,pregstat,preglik,cause1,lik1,cause2,lik2,cause3,lik3,indet,comcat,comnum
+B964                     ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Health systems, 90 
+B3253                    ,V,V,n/a,,03.03 Diabetes mellitus, 92,,,,,  8,Multiple,
+B963                     ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 71,,,,, 29,Inevitable, 99
+B5307                    ,V,V,n/a,,98 Other and unspecified NCD, 97,,,,,  3,Knowledge, 99  
+B2431                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B749                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 96,,,,,  4,Inevitable, 96
+B2612                    ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Emergency, 60  
+B4315                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 67,,,,, 33,Health systems, 98 
+B41                      ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B1774                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 89  
+B450                     ,V,V,n/a,,,,,,,,100,Knowledge, 99  
+B3181                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 86
+B1684                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Multiple,
+B1981                    ,V,V,n/a,,03.03 Diabetes mellitus, 98,,,,,  2,Health systems, 90 
+B6759                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B7730                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Health systems, 99 
+B1711                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 61,,,,, 39,Health systems, 99 
+B5208                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 94,,,,,  6,Health systems, 90 
+B4449                    ,V,V,n/a,,04.02 Stroke, 96,,,,,  4,Knowledge, 99  
+B1808                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Culture, 98
+B3444                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 75,,,,, 25,Inevitable, 98
+B3005                    ,V,V,n/a,,04.01 Acute cardiac disease, 79,,,,, 21,Multiple,
+B3277                    ,V,V,n/a,,04.01 Acute cardiac disease, 75,,,,, 25,Multiple,
+B183                     ,V,V,n/a,,02.03 Respiratory neoplasms, 71,,,,, 29,Health systems, 99 
+B2307                    ,V,V,n/a,,06.02 Liver cirrhosis, 67,,,,, 33,Multiple,
+B1382                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+B1535                    ,V,V,n/a,,02.04 Breast neoplasms, 99,,,,,  1,Inevitable, 99
+B5148                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+B7132                    ,V,V,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Health systems, 62 
+B6851                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 81,,,,, 19,Multiple,
+B4205                    ,V,V,n/a,,04.02 Stroke, 59,04.01 Acute cardiac disease, 38,,,  3,Multiple,
+B1816                    ,V,V,n/a,,06.01 Acute abdomen, 90,,,,, 10,Knowledge, 99  
+B2856                    ,V,V,n/a,,12.03 Accid fall, 65,12.08 Intentional self-harm, 32,,,  3,Inevitable, 99
+B5790                    ,V,V,n/a,,06.02 Liver cirrhosis, 60,07.01 Renal failure, 37,,,  3,Culture, 90
+B1105                    ,V,V,n/a,,01.01 Sepsis (non-obstetric), 54,,,,, 46,Multiple,
+B4718                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 83,,,,, 17,Health systems, 95 
+B7567                    ,V,V,n/a,,04.01 Acute cardiac disease, 97,,,,,  3,Knowledge, 90  
+B4187                    ,V,V,n/a,,04.01 Acute cardiac disease, 78,,,,, 22,Inevitable, 99
+B66                      ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 94
+B476                     ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 70  
+B2174                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 78  
+B4671                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Knowledge, 90  
+B3194                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 46,04.02 Stroke, 45,,,  9,Inevitable, 99
+B7460                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Health systems, 99 
+B5140                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 76,,,,, 24,Health systems, 90 
+B6634                    ,V,V,n/a,,04.02 Stroke, 54,04.99 Other and unspecified cardiac dis, 44,,,  2,Inevitable, 99
+B1125                    ,V,V,n/a,,04.02 Stroke, 96,,,,,  4,Inevitable, 99
+B7021                    ,V,V,n/a,,04.01 Acute cardiac disease, 45,04.99 Other and unspecified cardiac dis, 22,,, 33,Health systems, 93 
+B6400                    ,V,V,n/a,,04.01 Acute cardiac disease, 66,,,,, 34,Knowledge, 90  
+B4240                    ,V,V,n/a,,04.02 Stroke, 90,,,,, 10,Inevitable, 99
+B7165                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B4033                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Knowledge, 89  
+B6293                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Knowledge, 99  
+B4182                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 70 
+P2974                    ,V,V,Not pregnant or recently delivered,100,12.08 Intentional self-harm, 40,12.09 Assault, 26,,, 34,Health systems, 76 
+P6895                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 98,,,,,  2,Knowledge, 89  
+P5242                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 97,,,,,  3,Inevitable, 99
+P6593                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 89,,,,, 11,Health systems, 64 
+B6427                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 60,,,,, 40,Multiple,
+P4674                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+B63                      ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Health systems, 96 
+B4206                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 99,,,,,  1,Health systems, 98 
+P1244                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 88,,,,, 12,Inevitable, 99
+B7202                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Culture, 89
+P1493                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 98,,,,,  2,Health systems, 55 
+P21923                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21782                   ,V,V,n/a,,,,,,,,100,Multiple,
+B21617                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B21268                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B20056                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+B22601                   ,V,V,n/a,,10.01 Prematurity, 95,,,,,  5,Health systems, 99 
+B21694                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 98 
+P21382                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21713                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21523                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21992                   ,V,V,n/a,,,,,,,,100,Emergency, 66  
+P21114                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 66  
+P20145                   ,V,V,n/a,,10.04 Neonatal sepsis, 98,,,,,  2,Emergency, 94  
+B21635                   ,V,V,n/a,,10.02 Birth asphyxia, 93,,,,,  7,Emergency, 99  
+B21852                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+P21326                   ,V,V,n/a,,10.02 Birth asphyxia, 66,10.01 Prematurity, 33,,,  1,Health systems, 99 
+P21077                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 97
+P22187                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20268                   ,V,V,n/a,,10.03 Neonatal pneumonia, 55,10.02 Birth asphyxia, 44,,,  1,Emergency, 99  
+B22422                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+P20249                   ,V,V,n/a,,10.01 Prematurity, 94,,,,,  6,Emergency, 66  
+P22369                   ,V,V,n/a,,10.01 Prematurity, 95,,,,,  5,Emergency, 65  
+P22453                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 97
+P20355                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 83
+P21410                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 82
+B22074                   ,V,V,n/a,,10.02 Birth asphyxia, 83,,,,, 17,Health systems, 98 
+P22495                   ,V,V,n/a,,10.01 Prematurity, 95,,,,,  5,Emergency, 76  
+P22400                   ,V,V,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Health systems, 99 
+B21196                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+P21472                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+P22541                   ,V,V,n/a,,10.02 Birth asphyxia, 60,10.01 Prematurity, 39,,,  1,Health systems, 98 
+P21756                   ,V,V,n/a,,,,,,,,100,Inevitable, 99
+P22402                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 83
+P22486                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B22093                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 94  
+P21461                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P22166                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20994                   ,V,V,n/a,,,,,,,,100,Emergency, 99  
+P21926                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 82
+P21311                   ,V,V,n/a,,10.04 Neonatal sepsis, 60,,,,, 40,Emergency, 94  
+P20365                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 97
+P20941                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B20904                   ,V,V,n/a,,10.01 Prematurity, 71,,,,, 29,Multiple,
+P21709                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 92  
+P21930                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20652                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P21615                   ,V,V,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Health systems, 99 
+P22292                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20850                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21822                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 82
+B4054                    ,V,V,n/a,,12.01 Road traffic accident, 83,,,,, 17,Multiple,
+B1612                    ,V,V,n/a,,02.04 Breast neoplasms, 99,,,,,  1,Inevitable, 99
+B4947                    ,V,V,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 99
+B3130                    ,V,V,n/a,,98 Other and unspecified NCD, 96,,,,,  4,Culture, 90
+B5530                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B3526                    ,V,V,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 99,,,,,  1,Inevitable, 99
+B7564                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B3182                    ,V,V,n/a,,02.04 Breast neoplasms, 98,,,,,  2,Inevitable, 92
+B1252                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 71,,,,, 29,Inevitable, 99
+B4574                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B2246                    ,V,V,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 99,,,,,  1,Health systems, 93 
+B4272                    ,V,V,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 99,,,,,  1,Inevitable, 98
+B1882                    ,V,V,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 65,01.03 HIV/AIDS related death, 34,,,  1,Inevitable, 56
+B348                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 52,04.99 Other and unspecified cardiac dis, 41,,,  7,Inevitable, 91
+B6287                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 79,,,,, 21,Multiple,
+B2424                    ,V,V,n/a,,04.02 Stroke, 66,04.01 Acute cardiac disease, 33,,,  1,Inevitable, 99
+B2963                    ,V,V,n/a,,02.99 Other and unspecified neoplasms, 99,,,,,  1,Inevitable, 99
+B5296                    ,V,V,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 61,,,,, 39,Culture, 81
+B217                     ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 96,,,,,  4,Inevitable, 99
+B5440                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Culture, 90
+B2542                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 99,,,,,  1,Knowledge, 99  
+B5000                    ,V,V,n/a,,03.03 Diabetes mellitus, 88,,,,, 12,Knowledge, 99  
+B4217                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 98  
+B3350                    ,V,V,n/a,,02.02 Digestive neoplasms, 86,,,,, 14,Knowledge, 99  
+B1683                    ,V,V,n/a,,06.01 Acute abdomen, 98,,,,,  2,Knowledge, 90  
+B1155                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Multiple,
+B6717                    ,V,V,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+B3400                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 89,,,,, 11,Knowledge, 99  
+B7833                    ,V,V,n/a,,02.02 Digestive neoplasms, 97,,,,,  3,Knowledge, 99  
+B470                     ,V,V,n/a,,98 Other and unspecified NCD, 97,,,,,  3,Knowledge, 83  
+B2203                    ,V,V,n/a,,02.02 Digestive neoplasms, 66,,,,, 34,Knowledge, 99  
+B4729                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 67,,,,, 33,Knowledge, 99  
+B4191                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+B37                      ,V,V,n/a,,02.02 Digestive neoplasms, 98,,,,,  2,Knowledge, 99  
+B2492                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B2599                    ,V,V,n/a,,98 Other and unspecified NCD, 80,,,,, 20,Culture, 98
+B1161                    ,V,V,n/a,,02.02 Digestive neoplasms, 70,,,,, 30,Knowledge, 99  
+B7314                    ,V,V,n/a,,04.01 Acute cardiac disease, 60,01.99 Other and unspecified infect dis, 38,,,  2,Knowledge, 98  
+B891                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 72,,,,, 28,Inevitable, 61
+B4017                    ,V,V,n/a,,02.02 Digestive neoplasms, 92,,,,,  8,Knowledge, 99  
+B3153                    ,V,V,n/a,,06.02 Liver cirrhosis, 82,,,,, 18,Knowledge, 86  
+B2746                    ,V,V,n/a,,98 Other and unspecified NCD, 62,03.03 Diabetes mellitus, 31,,,  7,Knowledge, 98  
+B4152                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B6751                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 93
+B3517                    ,V,V,n/a,,02.99 Other and unspecified neoplasms, 46,98 Other and unspecified NCD, 23,,, 31,  Inevitable, 97
+B7319                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B742                     ,V,V,n/a,,98 Other and unspecified NCD, 67,,,,, 33,Knowledge, 90  
+B5334                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B2031                    ,V,V,n/a,,02.02 Digestive neoplasms, 61,02.99 Other and unspecified neoplasms, 38,,,  1, Inevitable, 99
+B666                     ,V,V,n/a,,02.02 Digestive neoplasms, 96,,,,,  4,Knowledge, 98  
+B4219                    ,V,V,n/a,,04.02 Stroke, 76,,,,, 24,Inevitable, 99
+B2603                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 69,,,,, 31,Knowledge, 90  
+B5466                    ,V,V,n/a,,06.02 Liver cirrhosis, 96,,,,,  4,Inevitable, 96
+B1734                    ,V,V,n/a,,06.02 Liver cirrhosis, 92,,,,,  8,Knowledge, 90  
+B5617                    ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 99
+B4279                    ,V,V,n/a,,04.02 Stroke, 97,,,,,  3,Knowledge, 93  
+B2364                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 90  
+B1289                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 56
+P21320                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 79 
+B20458                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B20246                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+P20158                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20288                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B22368                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B21164                   ,V,V,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Health systems, 99 
+P22274                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20198                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 67 
+B22278                   ,V,V,n/a,,10.04 Neonatal sepsis, 50,10.06 Congenital malformation, 49,,,  1,Health systems, 99 
+B21043                   ,V,V,n/a,,10.02 Birth asphyxia, 90,,,,, 10,Health systems, 99 
+P20193                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20486                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Multiple,
+P20360                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P20854                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B21638                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Multiple,
+P20241                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22413                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 97 
+B22514                   ,V,V,n/a,,,,,,,,100,Health systems, 99 
+B20271                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+P21791                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 92  
+P20868                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B20069                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+B4678                    ,V,V,n/a,,07.01 Renal failure, 99,,,,,  1,Health systems, 97 
+B4909                    ,V,V,n/a,,98 Other and unspecified NCD, 64,,,,, 36,Knowledge, 90  
+B7751                    ,V,V,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Health systems, 99 
+B3263                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 99
+B5742                    ,V,V,n/a,,06.02 Liver cirrhosis, 62,,,,, 38,Inevitable, 99
+B1990                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 60,04.01 Acute cardiac disease, 39,,,  1,Inevitable, 98
+B28                      ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 68  
+B7349                    ,V,V,n/a,,98 Other and unspecified NCD, 92,,,,,  8,Health systems, 87 
+B585                     ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 47,98 Other and unspecified NCD, 36,,, 17,Culture, 60
+B4739                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 88
+B1773                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Inevitable, 74
+B1654                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 76,,,,, 24,Inevitable, 99
+B3799                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 99  
+B2913                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Knowledge, 99  
+B4784                    ,V,V,n/a,,02.03 Respiratory neoplasms, 96,,,,,  4,Health systems, 90 
+B6035                    ,V,V,n/a,,04.01 Acute cardiac disease, 93,,,,,  7,Multiple,
+B4499                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 55,04.99 Other and unspecified cardiac dis, 44,,,  1,Multiple,
+B4910                    ,V,V,n/a,,02.03 Respiratory neoplasms, 92,,,,,  8,Knowledge, 99  
+B4117                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B5957                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 99,,,,,  1,Health systems, 64 
+B143                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 71  
+P4080                    ,V,V,n/a,,07.01 Renal failure, 99,,,,,  1,Culture, 90
+P1203                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 66
+P3095                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 99 
+B2887                    ,V,V,n/a,,04.01 Acute cardiac disease, 83,,,,, 17,Health systems, 89 
+P4638                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Inevitable, 84
+P3633                    ,V,V,n/a,,04.01 Acute cardiac disease, 55,,,,, 45,Multiple,
+P6774                    ,V,V,n/a,,07.01 Renal failure, 99,,,,,  1,Multiple,
+P2578                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 95,,,,,  5,Culture, 92
+B97                      ,V,V,n/a,,04.02 Stroke, 93,,,,,  7,Inevitable, 97
+P5145                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 90 
+P989                     ,V,V,n/a,,01.99 Other and unspecified infect dis, 98,,,,,  2,Multiple,
+P5373                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 94,,,,,  6,Emergency, 98  
+P3574                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 99  
+P2555                    ,V,V,n/a,,04.02 Stroke, 83,,,,, 17,Culture, 83
+P7442                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Emergency, 99  
+P7072                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 97,,,,,  3,Inevitable, 99
+P2182                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 99,,,,,  1,Multiple,
+B4140                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 90,,,,, 10,Inevitable, 96
+P6906                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+P6013                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 86,,,,, 14,Multiple,
+P6294                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B3588                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 98 
+P1825                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 99
+B1587                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 94,,,,,  6,Knowledge, 83  
+B6897                    ,V,V,n/a,,04.01 Acute cardiac disease, 62,,,,, 38,Inevitable, 96
+B1219                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Multiple,
+B4413                    ,V,V,Not pregnant or recently delivered,100,06.02 Liver cirrhosis, 99,,,,,  1,Culture, 90
+B4329                    ,V,V,n/a,,98 Other and unspecified NCD, 53,04.99 Other and unspecified cardiac dis, 44,,,  3,Knowledge, 98  
+B5485                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 89  
+B3127                    ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 94,,,,,  6,Health systems, 94 
+B480                     ,V,V,n/a,,03.03 Diabetes mellitus, 93,,,,,  7,Knowledge, 98  
+B3443                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 67,,,,, 33,Multiple,
+B5991                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 71,,,,, 29,Inevitable, 99
+B929                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 60,98 Other and unspecified NCD, 37,,,  3, Knowledge, 98  
+B418                     ,V,V,n/a,,98 Other and unspecified NCD, 95,,,,,  5,Knowledge, 99  
+B522                     ,V,V,n/a,,03.03 Diabetes mellitus, 92,,,,,  8,Knowledge, 90  
+B2958                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 71,,,,, 29,Health systems, 99 
+B999                     ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 78,,,,, 22,Knowledge, 99  
+B1864                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 90,,,,, 10,Multiple,
+B5518                    ,V,V,n/a,,04.02 Stroke, 75,,,,, 25,Health systems, 99 
+B3115                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 93  
+B2967                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Knowledge, 99  
+B6633                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 98
+B5785                    ,V,V,n/a,,03.03 Diabetes mellitus, 89,,,,, 11,Multiple,
+B2247                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 99,,,,,  1,Multiple,
+B5344                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 73,,,,, 27,Multiple,
+B4727                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 99  
+B1136                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 96
+B4220                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B5088                    ,V,V,n/a,,04.02 Stroke, 60,03.03 Diabetes mellitus, 38,,,  2,Multiple,
+B649                     ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 47,04.99 Other and unspecified cardiac dis, 23,,, 30,Culture, 99
+B6979                    ,V,V,n/a,,07.01 Renal failure, 71,,,,, 29,Knowledge, 89  
+B3141                    ,V,V,n/a,,03.03 Diabetes mellitus, 96,,,,,  4,Culture, 83
+B6907                    ,V,V,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Health systems, 82 
+P10711                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 94  
+P7522                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Inevitable, 92
+P5896                    ,V,V,n/a,,98 Other and unspecified NCD, 89,,,,, 11,Knowledge, 99  
+B1993                    ,V,V,n/a,,02.02 Digestive neoplasms, 98,,,,,  2,Inevitable, 99
+P6473                    ,V,V,n/a,,07.01 Renal failure, 78,,,,, 22,Knowledge, 98  
+P11975                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 66,,,,, 34,Knowledge, 98  
+P1599                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B343                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 81,,,,, 19,Health systems, 94 
+P11377                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B5922                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B10471                   ,V,V,n/a,,03.02 Severe malnutrition, 56,01.02 Acute resp infect incl pneumonia, 36,,,  8,Knowledge, 99  
+P10437                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 98 
+P12010                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B10212                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Health systems, 55 
+P11288                   ,V,V,n/a,,12.03 Accid fall, 98,,,,,  2,Emergency, 99  
+P11459                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 79 
+P11543                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P11597                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 79 
+P11794                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 91  
+P10403                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 79  
+P1946                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 90  
+P11847                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 98  
+P11857                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 53 
+P10458                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 98  
+P10384                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 84  
+B6078                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Knowledge, 99  
+B6445                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 90 
+B6918                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 69,,,,, 31,Inevitable, 57
+P10340                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 60,01.04 Diarrhoeal diseases, 38,,,  2,Knowledge, 85  
+P11972                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Health systems, 83 
+P11174                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+P65                      ,V,V,n/a,,04.02 Stroke, 96,,,,,  4,Culture, 90
+P3292                    ,V,V,Not pregnant or recently delivered,100,01.04 Diarrhoeal diseases, 90,,,,, 10,Emergency, 90  
+P10043                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P11292                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 81 
+B12059                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 98,,,,,  2,Emergency, 79  
+B4937                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 98,,,,,  2,Knowledge, 99  
+B10060                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 55  
+P11187                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 89,,,,, 11,Multiple,
+B1685                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 51,06.01 Acute abdomen, 41,,,  8,Multiple,
+P11054                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 83  
+B11540                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+P10302                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 88,,,,, 12,Knowledge, 90  
+B10972                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+B5082                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Culture, 99
+P10011                   ,V,V,n/a,,01.01 Sepsis (non-obstetric), 72,,,,, 28,Knowledge, 98  
+B12020                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P11829                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 61,01.04 Diarrhoeal diseases, 38,,,  1,Knowledge, 99  
+P11541                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+B11339                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 67,,,,, 33,Emergency, 99  
+B10831                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 99  
+P11410                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+P10405                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 53,01.99 Other and unspecified infect dis, 27,,, 20,Knowledge, 99  
+B10277                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 83  
+B7325                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 98  
+P10322                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 56,01.04 Diarrhoeal diseases, 43,,,  1,Knowledge, 99  
+P11596                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+P11666                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 70 
+B4347                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 89,,,,, 11,Health systems, 83 
+B4089                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 84,,,,, 16,Knowledge, 98  
+P1011                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 48,04.02 Stroke, 24,,, 28,Inevitable, 54
+B4584                    ,V,V,Not pregnant or recently delivered,100,12.04 Accid drowning and submersion, 93,,,,,  7,Emergency, 99  
+P11334                   ,V,V,n/a,,12.04 Accid drowning and submersion, 99,,,,,  1,Emergency, 99  
+P7555                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P5078                    ,V,V,n/a,,12.08 Intentional self-harm, 84,,,,, 16,Emergency, 99  
+P5843                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 78,,,,, 22,Health systems, 52 
+P4038                    ,V,V,n/a,,12.08 Intentional self-harm, 86,,,,, 14,Emergency, 99  
+P5275                    ,V,V,n/a,,12.04 Accid drowning and submersion, 95,,,,,  5,Emergency, 99  
+P4866                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P10551                   ,V,V,n/a,,12.04 Accid drowning and submersion, 99,,,,,  1,Emergency, 99  
+P7632                    ,V,V,n/a,,12.08 Intentional self-harm, 79,,,,, 21,Emergency, 99  
+P6822                    ,V,V,n/a,,12.08 Intentional self-harm, 92,,,,,  8,Emergency, 96  
+P6859                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P4482                    ,V,V,n/a,,12.04 Accid drowning and submersion, 95,,,,,  5,Emergency, 99  
+B849                     ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+P11175                   ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B5211                    ,V,V,n/a,,03.03 Diabetes mellitus, 87,,,,, 13,Inevitable, 99
+B567                     ,V,V,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 85,,,,, 15,Culture, 94
+B3288                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 77,,,,, 23,Multiple,
+B4543                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 99  
+B6992                    ,V,V,n/a,,98 Other and unspecified NCD, 44,04.99 Other and unspecified cardiac dis, 35,,, 21,Inevitable, 99
+B5792                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 96  
+B6476                    ,V,V,n/a,,12.03 Accid fall, 46,12.07 Accid poisoning & noxious subs, 29,,, 25,Emergency, 99  
+P4916                    ,V,V,n/a,,12.08 Intentional self-harm, 79,,,,, 21,Emergency, 99  
+P3519                    ,V,V,n/a,,12.08 Intentional self-harm, 79,,,,, 21,Emergency, 99  
+B1870                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+B11165                   ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 49,01.09 Pulmonary tuberculosis, 40,,, 11,Resources, 82 
+B659                     ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 75,,,,, 25,Inevitable, 97
+P5050                    ,V,V,Not pregnant or recently delivered,100,12.05 Accid expos to smoke fire & flame, 92,,,,,  8,Emergency, 99  
+B11265                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 66,12.03 Accid fall, 33,,,  1,Emergency, 99  
+B2940                    ,V,V,n/a,,04.01 Acute cardiac disease, 93,,,,,  7,Knowledge, 89  
+P2670                    ,V,V,n/a,,12.01 Road traffic accident, 55,12.08 Intentional self-harm, 34,,, 11,Culture, 99
+B6397                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 97,,,,,  3,Inevitable, 99
+B11108                   ,V,V,n/a,,12.03 Accid fall, 90,,,,, 10,Emergency, 95  
+B2401                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+P3467                    ,V,V,n/a,,12.03 Accid fall, 99,,,,,  1,Emergency, 83  
+P6023                    ,V,V,n/a,,12.08 Intentional self-harm, 99,,,,,  1,Emergency, 71  
+B7118                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B3147                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 55,06.01 Acute abdomen, 44,,,  1,Culture, 90
+P10494                   ,V,V,n/a,,,,,,,,100,Emergency, 99  
+P6365                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 92,,,,,  8,Emergency, 96  
+B1435                    ,V,V,n/a,,04.01 Acute cardiac disease, 64,,,,, 36,Inevitable, 99
+B3695                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 98,,,,,  2,Knowledge, 99  
+B3948                    ,V,V,n/a,,02.03 Respiratory neoplasms, 83,,,,, 17,Health systems, 90 
+B6125                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 96,,,,,  4,Knowledge, 99  
+P3748                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Emergency, 83  
+B6446                    ,V,V,n/a,,04.02 Stroke, 88,,,,, 12,Emergency, 99  
+P7652                    ,V,V,Not pregnant or recently delivered,100,12.08 Intentional self-harm, 71,,,,, 29,Inevitable, 97
+P5499                    ,V,V,n/a,,12.08 Intentional self-harm, 71,,,,, 29,Inevitable, 99
+B3965                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+B4811                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 95  
+B1936                    ,V,V,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+P1739                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P10665                   ,V,V,n/a,,12.09 Assault, 92,,,,,  8,Emergency, 99  
+P11314                   ,V,V,n/a,,08.01 Epilepsy, 60,,,,, 40,Emergency, 98  
+P3664                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B860                     ,V,V,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+P11422                   ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P10743                   ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B300                     ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B6886                    ,V,V,n/a,,12.01 Road traffic accident, 98,,,,,  2,Inevitable, 72
+P3592                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P10676                   ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B4493                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 97,,,,,  3,Knowledge, 99  
+P6770                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P7227                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B2333                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 76  
+B4787                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 99 
+B2120                    ,V,V,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 68,,,,, 32,Multiple,
+P4654                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 49,,,,, 51, Health systems, 76 
+P3023                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 96,,,,,  4, Health systems, 66 
+P765                     ,V,V,Pregnant at death, 99,09.04 Obstetric haemorrhage, 50,,,,, 50,Health systems, 66 
+P6707                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 63,,,,, 37,Health systems, 76 
+P7293                    ,V,V,Pregnant at death, 99,09.01 Ectopic pregnancy, 50,09.03 Pregnancy-induced hypertension, 32,,, 18,  Health systems, 66 
+B4889                    ,V,V,Pregnant at death, 99,04.99 Other and unspecified cardiac dis, 54,04.01 Acute cardiac disease, 43,,,  3,Health systems, 99 
+P1202                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 59,03.03 Diabetes mellitus, 37,,,  4,Inevitable, 99
+P6921                    ,V,V,Not pregnant or recently delivered,100,09.02 Abortion-related death, 77,,,,, 23,Health systems, 66 
+P6515                    ,V,V,Not pregnant or recently delivered,100,01.07 Meningitis and encephalitis, 99,,,,,  1,Emergency, 98  
+P6036                    ,V,V,Not pregnant or recently delivered,100,01.04 Diarrhoeal diseases, 41,,,,, 59,Health systems, 89 
+P1911                    ,V,V,Not pregnant or recently delivered,100,12.01 Road traffic accident, 40,09.02 Abortion-related death, 40,,, 20,Health systems, 66 
+P5947                    ,V,V,Not pregnant or recently delivered,100,12.01 Road traffic accident, 84,,,,, 16,Health systems, 86 
+B5564                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 99,,,,,  1,Health systems, 98 
+P6739                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 49,09.02 Abortion-related death, 49,,,  2, Health systems, 56 
+B6221                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.03 Pregnancy-induced hypertension, 46,04.99 Other and unspecified cardiac dis, 29,,, 25, Emergency, 99  
+P4184                    ,V,V,Not pregnant or recently delivered,100,06.01 Acute abdomen, 44,01.04 Diarrhoeal diseases, 27,,, 29,  Health systems, 95 
+B1096                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 94,,,,,  6,Health systems, 99 
+B10979                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Knowledge, 90  
+B10980                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 93,,,,,  7,Knowledge, 86  
+B10532                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 55,01.07 Meningitis and encephalitis, 44,,,  1,Knowledge, 99  
+B11429                   ,V,V,n/a,,01.01 Sepsis (non-obstetric), 96,,,,,  4,Knowledge, 94  
+B12001                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 83,,,,, 17,Knowledge, 99  
+B11737                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 96,,,,,  4,Knowledge, 98  
+B6533                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B2935                    ,V,V,n/a,,12.09 Assault, 79,,,,, 21,Inevitable, 99
+B2710                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B71                      ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B7274                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 88
+B1531                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 97
+B2704                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 99
+B7703                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 64,,,,, 36,Multiple,
+B7447                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 98
+P1128                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B6790                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 71  
+B3797                    ,V,V,n/a,,04.01 Acute cardiac disease, 95,,,,,  5,Emergency, 96  
+B3231                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 41,04.01 Acute cardiac disease, 32,,, 27,Inevitable, 99
+P1411                    ,V,V,Not pregnant or recently delivered,100,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B6870                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Multiple,
+B5881                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B6021                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 99
+B873                     ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 99
+B4949                    ,V,V,n/a,,06.02 Liver cirrhosis, 92,,,,,  8,Emergency, 98  
+B3333                    ,V,V,n/a,,12.09 Assault, 66,01.02 Acute resp infect incl pneumonia, 33,,,  1,Emergency, 98  
+B6068                    ,V,V,n/a,,12.01 Road traffic accident, 68,,,,, 32,Inevitable, 79
+B3621                    ,V,V,n/a,,04.01 Acute cardiac disease, 71,,,,, 29,Knowledge, 96  
+B4954                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 79
+B7673                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 71  
+B5482                    ,V,V,n/a,,06.02 Liver cirrhosis, 94,,,,,  6,Inevitable, 99
+P645                     ,V,V,Pregnant at death, 99,09.03 Pregnancy-induced hypertension, 99,,,,,  1,Emergency, 88  
+P6220                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 51,01.99 Other and unspecified infect dis, 32,,, 17,Knowledge, 98  
+P2467                    ,V,V,Pregnant at death, 99,09.03 Pregnancy-induced hypertension, 99,,,,,  1,Health systems, 62 
+P153                     ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 98,,,,,  2,Emergency, 99  
+P3902                    ,V,V,Pregnant at death, 99,09.03 Pregnancy-induced hypertension, 95,,,,,  5,Health systems, 66 
+P315                     ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 55,04.02 Stroke, 43,,,  2,Inevitable, 99
+B7613                    ,V,V,Pregnant at death, 99,09.03 Pregnancy-induced hypertension, 99,,,,,  1,Emergency, 99  
+P7099                    ,V,V,Pregnant at death, 99,09.02 Abortion-related death, 79,,,,, 21,Culture, 90
+B5858                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B1293                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B1843                    ,V,V,Not pregnant or recently delivered,100,01.04 Diarrhoeal diseases, 79,,,,, 21,Knowledge, 97  
+B5097                    ,V,V,n/a,,04.01 Acute cardiac disease, 97,,,,,  3,Inevitable, 97
+B1370                    ,V,V,n/a,,03.03 Diabetes mellitus, 90,,,,, 10,Health systems, 90 
+B4650                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 76  
+B4210                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 68,,,,, 32,Knowledge, 55  
+B7606                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 95,,,,,  5,Knowledge, 96  
+B201                     ,V,V,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 76  
+B6824                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 89  
+B4492                    ,V,V,n/a,,02.03 Respiratory neoplasms, 86,,,,, 14,Knowledge, 96  
+B1927                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 92,,,,,  8,Inevitable, 99
+B1997                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 82 
+B2694                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+B484                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 49,02.99 Other and unspecified neoplasms, 38,,, 13, Inevitable, 99
+B2037                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 65,,,,, 35,Multiple,
+B3771                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B2992                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B3711                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B9                       ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B2639                    ,V,V,n/a,,04.01 Acute cardiac disease, 96,,,,,  4,Knowledge, 99  
+B2361                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B1861                    ,V,V,n/a,,07.01 Renal failure, 64,06.02 Liver cirrhosis, 33,,,  3,Knowledge, 98  
+P287                     ,V,V,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 98,,,,,  2,Multiple,
+P11030                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B6942                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B2985                    ,V,V,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 68,,,,, 32,Health systems, 95 
+B10464                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B2384                    ,V,V,n/a,,98 Other and unspecified NCD, 98,,,,,  2,Knowledge, 97  
+B5853                    ,V,V,n/a,,02.03 Respiratory neoplasms, 69,,,,, 31,Inevitable, 99
+B3625                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 88
+B531                     ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 83  
+B3030                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 90  
+B5635                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B3846                    ,V,V,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Inevitable, 99
+B6029                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 96,,,,,  4,Emergency, 96  
+B2020                    ,V,V,n/a,,02.99 Other and unspecified neoplasms, 64,,,,, 36,Knowledge, 90  
+B6377                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 87,,,,, 13,Inevitable, 61
+B6269                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Inevitable, 98
+B4732                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 96,,,,,  4,Inevitable, 99
+B3394                    ,V,V,n/a,,02.02 Digestive neoplasms, 97,,,,,  3,Multiple,
+B1863                    ,V,V,n/a,,98 Other and unspecified NCD, 65,,,,, 35,Knowledge, 99  
+B5434                    ,V,V,n/a,,02.99 Other and unspecified neoplasms, 73,,,,, 27,Inevitable, 99
+B6910                    ,V,V,n/a,,02.99 Other and unspecified neoplasms, 64,02.05 & 02.06 Reproductive neoplasms MF, 33,,,  3,   Knowledge, 73  
+B10474                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B11891                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B2786                    ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 99
+B2014                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 95,,,,,  5, Knowledge, 90  
+B4032                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+B7076                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B2056                    ,V,V,n/a,,04.01 Acute cardiac disease, 97,,,,,  3,Health systems, 90 
+B5554                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 85,,,,, 15,Health systems, 90 
+B5543                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 98 
+B3021                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 92,,,,,  8,Health systems, 73 
+B11505                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+B1540                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 90 
+B921                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B3248                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 53,04.01 Acute cardiac disease, 35,,, 12,Multiple,
+B12036                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Culture, 51
+B2684                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 99,,,,,  1,Health systems, 99 
+B11649                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 99  
+B7639                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 98 
+B11202                   ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 46,01.02 Acute resp infect incl pneumonia, 46,,,  8,Health systems, 54 
+B3828                    ,V,V,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 99,,,,,  1,Health systems, 99 
+B10454                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 79,,,,, 21,Health systems, 72 
+B11944                   ,V,V,n/a,,03.02 Severe malnutrition, 97,,,,,  3,Knowledge, 84  
+B10190                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+P10213                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 98  
+P11210                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 54,01.99 Other and unspecified infect dis, 35,,, 11,Knowledge, 99  
+B11295                   ,V,V,n/a,,03.02 Severe malnutrition, 53,01.99 Other and unspecified infect dis, 42,,,  5,Knowledge, 99  
+P10071                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 92  
+P10857                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 90,,,,, 10,Knowledge, 99  
+P11052                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P11145                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Emergency, 97  
+B11626                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 95 
+P11142                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P11553                   ,V,V,n/a,,01.01 Sepsis (non-obstetric), 71,,,,, 29,Knowledge, 99  
+B10480                   ,V,V,n/a,,03.02 Severe malnutrition, 79,,,,, 21,Knowledge, 94  
+P11313                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 71,,,,, 29,Knowledge, 97  
+P10655                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 82  
+B10119                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+B10073                   ,V,V,n/a,,12.03 Accid fall, 95,,,,,  5,Emergency, 99  
+B11091                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 54 
+B10704                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 69,,,,, 31,Knowledge, 98  
+P11486                   ,V,V,n/a,,03.02 Severe malnutrition, 98,,,,,  2,Knowledge, 98  
+P11623                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B11278                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Culture, 84
+P3064                    ,V,V,n/a,,06.01 Acute abdomen, 71,,,,, 29,Knowledge, 95  
+B4060                    ,V,V,n/a,,04.01 Acute cardiac disease, 97,,,,,  3,Multiple,
+B3015                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Knowledge, 90  
+B155                     ,V,V,n/a,,98 Other and unspecified NCD, 77,,,,, 23,Knowledge, 98  
+B414                     ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 90  
+P11117                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 98,,,,,  2,Emergency, 64  
+P4629                    ,V,V,n/a,,04.02 Stroke, 45,03.03 Diabetes mellitus, 36,,, 19,Culture, 90
+B5219                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B5156                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 62,,,,, 38,Inevitable, 99
+B11157                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B6069                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B1533                    ,V,V,n/a,,06.02 Liver cirrhosis, 71,,,,, 29,Knowledge, 99  
+P912                     ,V,V,n/a,,01.07 Meningitis and encephalitis, 40,01.01 Sepsis (non-obstetric), 31,,, 29,Emergency, 76  
+B5363                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Culture, 85
+B6990                    ,V,V,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 61
+B5007                    ,V,V,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 98  
+P1486                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 96,,,,,  4,Knowledge, 76  
+B1194                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 76,,,,, 24,Multiple,
+B998                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 82,,,,, 18,Knowledge, 88  
+P3779                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 73,,,,, 27,Culture, 97
+B3035                    ,V,V,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 99  
+B6057                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 79,,,,, 21,Knowledge, 98  
+P2491                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 90  
+B10218                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 86  
+B474                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 95,,,,,  5,Knowledge, 90  
+B5789                    ,V,V,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 96,,,,,  4,Health systems, 99 
+B6442                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 90  
+B5619                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B72                      ,V,V,n/a,,01.99 Other and unspecified infect dis, 78,,,,, 22,Knowledge, 99  
+B10228                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B2673                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 96,,,,,  4,Knowledge, 90  
+B4073                    ,V,V,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 90  
+B5954                    ,V,V,n/a,,06.02 Liver cirrhosis, 49,06.01 Acute abdomen, 49,,,  2,Culture, 99
+B11588                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 47,06.01 Acute abdomen, 38,,, 15,  Multiple,
+B11785                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 95,,,,,  5,Knowledge, 62  
+P2848                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 74 
+B50                      ,V,V,n/a,,01.09 Pulmonary tuberculosis, 73,,,,, 27,Knowledge, 99  
+B884                     ,V,V,n/a,,02.02 Digestive neoplasms, 95,,,,,  5,Knowledge, 90  
+B4662                    ,V,V,n/a,,06.01 Acute abdomen, 47,06.02 Liver cirrhosis, 47,,,  6,Knowledge, 82  
+B10664                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Knowledge, 99  
+P124                     ,V,V,Not pregnant or recently delivered,100,06.02 Liver cirrhosis, 40,01.04 Diarrhoeal diseases, 40,,, 20,Multiple,
+P259                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 77,,,,, 23,Culture, 99
+P10301                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Knowledge, 97  
+B11663                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 54,01.99 Other and unspecified infect dis, 43,,,  3,Knowledge, 99  
+B10186                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 98,,,,,  2,Knowledge, 84  
+B10542                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 56,,,,, 44,Health systems, 95 
+P4725                    ,V,V,n/a,,06.01 Acute abdomen, 45,01.04 Diarrhoeal diseases, 27,,, 28,  Health systems, 90 
+B1504                    ,V,V,n/a,,02.03 Respiratory neoplasms, 97,,,,,  3,Inevitable, 94
+B2092                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 69,,,,, 31,Knowledge, 99  
+B4062                    ,V,V,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 77,,,,, 23,Knowledge, 99  
+B1298                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 51,,,,, 49,Multiple,
+B4414                    ,V,V,n/a,,06.01 Acute abdomen, 79,,,,, 21,Culture, 98
+B841                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 54,06.02 Liver cirrhosis, 27,,, 19,Multiple,
+B3382                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Knowledge, 90  
+B3690                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 75,,,,, 25,Multiple,
+B3266                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B11989                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P5292                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Multiple,
+P11689                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 88  
+B680                     ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 99,,,,,  1,Health systems, 66 
+B10648                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 91  
+B11238                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Knowledge, 99  
+B5236                    ,V,V,n/a,,12.01 Road traffic accident, 85,,,,, 15,Inevitable, 94
+B6318                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 89  
+B700                     ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Knowledge, 98  
+P10061                   ,V,V,n/a,,08.01 Epilepsy, 98,,,,,  2,Emergency, 98  
+B5601                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 89,,,,, 11,Inevitable, 97
+B627                     ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 66,,,,, 34,Culture, 90
+B5550                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 85,,,,, 15,Knowledge, 90  
+B4374                    ,V,V,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 60,,,,, 40,Multiple,
+B10316                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Knowledge, 95  
+B4609                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 98  
+B6477                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Health systems, 90 
+B7461                    ,V,V,n/a,,06.01 Acute abdomen, 99,,,,,  1,Culture, 90
+B5632                    ,V,V,n/a,,98 Other and unspecified NCD, 69,,,,, 31,Knowledge, 90  
+B362                     ,V,V,n/a,,06.02 Liver cirrhosis, 93,,,,,  7,Knowledge, 98  
+B2568                    ,V,V,n/a,,03.03 Diabetes mellitus, 88,,,,, 12,Health systems, 96 
+B4608                    ,V,V,Not pregnant or recently delivered,100,06.02 Liver cirrhosis, 97,,,,,  3,Health systems, 99 
+B433                     ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B5043                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 90  
+B2890                    ,V,V,n/a,,04.02 Stroke, 66,04.01 Acute cardiac disease, 33,,,  1,Knowledge, 98  
+B4995                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Culture, 99
+B5284                    ,V,V,n/a,,12.05 Accid expos to smoke fire & flame, 60,12.01 Road traffic accident, 39,,,  1,Multiple,
+P5337                    ,V,V,n/a,,12.09 Assault, 61,12.08 Intentional self-harm, 38,,,  1,Emergency, 99  
+B4111                    ,V,V,n/a,,,,,,,,100,Multiple,
+B6010                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 98  
+B7154                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 73,,,,, 27,Inevitable, 60
+B1133                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 80,,,,, 20,Health systems, 82 
+P4066                    ,V,V,n/a,,98 Other and unspecified NCD, 95,,,,,  5,Inevitable, 96
+B7417                    ,V,V,n/a,,,,,,,,100,Emergency, 97  
+P6601                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 65,,,,, 35,Culture, 99
+B6571                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 54,06.02 Liver cirrhosis, 43,,,  3,Knowledge, 90  
+P4736                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 40,98 Other and unspecified NCD, 39,,, 21,Inevitable, 96
+B6290                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Inevitable, 60
+P2102                    ,V,V,Not pregnant or recently delivered,100,05.02 Asthma, 86,,,,, 14,Emergency, 98  
+P323                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+P378                     ,V,V,n/a,,04.02 Stroke, 90,,,,, 10,Inevitable, 98
+B3422                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 93
+B2906                    ,V,V,n/a,,04.01 Acute cardiac disease, 60,,,,, 40,Multiple,
+B312                     ,V,V,n/a,,,,,,,,100,Health systems, 90 
+P7688                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 95,,,,,  5,Health systems, 94 
+P429                     ,V,V,Not pregnant or recently delivered,100,01.04 Diarrhoeal diseases, 82,,,,, 18,Health systems, 95 
+B2393                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Health systems, 90 
+P5766                    ,V,V,n/a,,12.08 Intentional self-harm, 99,,,,,  1,Emergency, 99  
+P7407                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 69,,,,, 31,Culture, 99
+P6169                    ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 87,,,,, 13,Health systems, 83 
+P4377                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 90  
+P255                     ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+P7311                    ,V,V,n/a,,04.01 Acute cardiac disease, 61,01.99 Other and unspecified infect dis, 38,,,  1,Knowledge, 99  
+B2332                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+P4578                    ,V,V,n/a,,04.01 Acute cardiac disease, 93,,,,,  7,Health systems, 97 
+B6334                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 90,,,,, 10,Inevitable, 99
+B5542                    ,V,V,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 99,,,,,  1,Culture, 90
+B2838                    ,V,V,n/a,,04.02 Stroke, 94,,,,,  6,Multiple,
+B7200                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 58,01.99 Other and unspecified infect dis, 29,,, 13,Knowledge, 98  
+B5762                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 92,,,,,  8,Inevitable, 99
+P7809                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 88
+P1738                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 98  
+B7115                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 90  
+P7365                    ,V,V,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 90  
+B4409                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 91,,,,,  9,Health systems, 94 
+B2411                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 99,,,,,  1,Health systems, 95 
+B2273                    ,V,V,Pregnant at death, 99,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Health systems, 95 
+B6438                    ,V,V,Pregnancy ended within 6 weeks of death,100,  04.99 Other and unspecified cardiac dis, 98,,,,,  2,Health systems, 99 
+P7027                    ,V,V,Not pregnant or recently delivered,100,,,,,,,100,Health systems, 64 
+B4282                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.03 Pregnancy-induced hypertension, 99,,,,,  1,Health systems, 90 
+P4109                    ,V,V,Pregnant at death, 99,09.99 Other and unspecified maternal CoD, 65,09.01 Ectopic pregnancy, 32,,,  3, Emergency, 83  
+B6096                    ,V,V,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 49,,,,, 51,Health systems, 97 
+B558                     ,V,V,Not pregnant or recently delivered,100,06.02 Liver cirrhosis, 88,,,,, 12,Knowledge, 98  
+P7572                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 96,,,,,  4,Knowledge, 98  
+B6040                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 94,,,,,  6,Health systems, 99 
+B4795                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 99,,,,,  1,Culture, 99
+B7609                    ,V,V,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 98,,,,,  2,Culture, 98
+P4614                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 95,,,,,  5,Culture, 99
+B3604                    ,V,V,Pregnancy ended within 6 weeks of death,100,  09.03 Pregnancy-induced hypertension, 99,,,,,  1,Inevitable, 99
+P10895                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B10450                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10860                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 89,,,,, 11,Knowledge, 99  
+B6055                    ,V,V,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+B10195                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P11779                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 83  
+P10333                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 95,,,,,  5,Knowledge, 99  
+P10031                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+B3137                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Multiple,
+B7423                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 88 
+P1156                    ,V,V,n/a,,03.03 Diabetes mellitus, 52,04.01 Acute cardiac disease, 41,,,  7,Emergency, 98  
+B1578                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+P10358                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 93,,,,,  7,Knowledge, 99  
+P11860                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B7592                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 95 
+B2827                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 96  
+P10387                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B3599                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 90  
+B11957                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B3570                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 98  
+P10841                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Culture, 87
+P4153                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 98  
+B4353                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Inevitable, 96
+B2661                    ,V,V,n/a,,04.01 Acute cardiac disease, 95,,,,,  5,Health systems, 90 
+P10864                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 95 
+B7770                    ,V,V,n/a,,04.02 Stroke, 82,,,,, 18,Knowledge, 90  
+B4712                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Inevitable, 86
+P10078                   ,V,V,n/a,,01.06 Measles, 52,01.04 Diarrhoeal diseases, 33,,, 15, Knowledge, 99  
+B11161                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 83,,,,, 17,Knowledge, 99  
+B1716                    ,V,V,n/a,,02.03 Respiratory neoplasms, 94,,,,,  6,Health systems, 89 
+B10853                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B3241                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Inevitable, 94
+P10981                   ,V,V,n/a,,03.02 Severe malnutrition, 46,01.99 Other and unspecified infect dis, 29,,, 25,Knowledge, 92  
+B10685                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+B11755                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Health systems, 88 
+B2346                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 92,,,,,  8,Multiple,
+B3238                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 96 
+B5822                    ,V,V,n/a,,,,,,,,100,Inevitable, 74
+B2143                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 92
+B11447                   ,V,V,n/a,,01.01 Sepsis (non-obstetric), 74,,,,, 26,Knowledge, 66  
+B1895                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P12039                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B1388                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 75,,,,, 25,Knowledge, 90  
+P2209                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 71,,,,, 29,Inevitable, 98
+P2065                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 94,,,,,  6,Inevitable, 93
+P2234                    ,V,V,n/a,,03.03 Diabetes mellitus, 97,,,,,  3,Culture, 98
+B6970                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Inevitable, 96
+P11442                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 88,,,,, 12,Culture, 90
+P11910                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P11576                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P10617                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+P3180                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 94
+B5805                    ,V,V,n/a,,04.02 Stroke, 97,,,,,  3,Health systems, 98 
+B6085                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B3808                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+P11402                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+B2557                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 99 
+P10535                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+B10091                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B11074                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B10771                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 66 
+B1793                    ,V,V,n/a,,02.02 Digestive neoplasms, 90,,,,, 10,Knowledge, 99  
+P11124                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 55 
+P11872                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B1131                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 97
+B10415                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 65  
+B3477                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 99  
+B1346                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+B10124                   ,V,V,n/a,,01.01 Sepsis (non-obstetric), 57,01.07 Meningitis and encephalitis, 37,,,  6,Knowledge, 66  
+B3029                    ,V,V,n/a,,04.01 Acute cardiac disease, 56,01.99 Other and unspecified infect dis, 42,,,  2,Knowledge, 99  
+B4466                    ,V,V,n/a,,06.02 Liver cirrhosis, 61,07.01 Renal failure, 38,,,  1,Culture, 90
+B521                     ,V,V,n/a,,04.01 Acute cardiac disease, 88,,,,, 12,Knowledge, 98  
+B3016                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 55,12.03 Accid fall, 43,,,  2,Inevitable, 99
+B922                     ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 79 
+B1596                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B2039                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 81,,,,, 19,Knowledge, 90  
+B7477                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P10269                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B11939                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+B2199                    ,V,V,n/a,,04.02 Stroke, 93,,,,,  7,Inevitable, 99
+B10035                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 66 
+P11734                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B6090                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 98  
+B2023                    ,V,V,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 95,,,,,  5,Knowledge, 83  
+B4877                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+P11781                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 66,03.02 Severe malnutrition, 33,,,  1,Knowledge, 99  
+P11843                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+P7510                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Culture, 90
+B11861                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Culture, 90
+P10898                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 88,,,,, 12,Knowledge, 99  
+B7600                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 59,04.99 Other and unspecified cardiac dis, 38,,,  3,Knowledge, 90  
+B4442                    ,V,V,n/a,,05.01 Chronic obstructive pulmonary dis, 92,,,,,  8,Knowledge, 90  
+P10398                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10486                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 66 
+B10037                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 60,,,,, 40,Multiple,
+P11196                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 86,,,,, 14,Knowledge, 99  
+B1092                    ,V,V,n/a,,04.01 Acute cardiac disease, 93,,,,,  7,Knowledge, 99  
+B504                     ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Emergency, 66  
+B11911                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B4252                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B5427                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 65,01.99 Other and unspecified infect dis, 33,,,  2,Multiple,
+B11691                   ,V,V,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 99  
+B11431                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 90,,,,, 10,Knowledge, 99  
+B1952                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Knowledge, 90  
+P11135                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 94  
+P642                     ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Knowledge, 90  
+P11126                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10753                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B2855                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+P10835                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 98  
+P10571                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 52,03.02 Severe malnutrition, 40,,,  8,Knowledge, 99  
+B11182                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+B4402                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Health systems, 90 
+B10288                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 90,,,,, 10,Emergency, 90  
+P10963                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 79,,,,, 21,Knowledge, 99  
+B4547                    ,V,V,n/a,,,,,,,,100,Inevitable, 99
+B11281                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 71,,,,, 29,Multiple,
+P12049                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 90  
+B10310                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10987                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 55 
+B4796                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B7653                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B934                     ,V,V,n/a,,02.02 Digestive neoplasms, 79,,,,, 21,Inevitable, 99
+B2017                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 84,,,,, 16,Health systems, 90 
+P10370                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P10707                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B11233                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 96,,,,,  4,Knowledge, 99  
+P2507                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 66,01.03 HIV/AIDS related death, 33,,,  1,Inevitable, 99
+B12053                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 93,,,,,  7,Knowledge, 99  
+P10262                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 65,,,,, 35,Knowledge, 99  
+P2526                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 66 
+B11547                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Emergency, 71  
+P11942                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P11385                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B10761                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Knowledge, 99  
+P11878                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 91,,,,,  9,Knowledge, 99  
+P5990                    ,V,V,n/a,,04.01 Acute cardiac disease, 74,,,,, 26,Multiple,
+B6056                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P12016                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 79,,,,, 21,Multiple,
+B6104                    ,V,V,n/a,,04.02 Stroke, 85,,,,, 15,Inevitable, 99
+B4698                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 89,,,,, 11,Multiple,
+B4366                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 97,,,,,  3,Health systems, 99 
+B10803                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B10540                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10997                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P10622                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 86,,,,, 14,Multiple,
+B3796                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 90 
+P7383                    ,V,V,n/a,,06.01 Acute abdomen, 75,,,,, 25,Knowledge, 82  
+B2651                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Knowledge, 99  
+P11858                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 55,01.07 Meningitis and encephalitis, 44,,,  1,Knowledge, 99  
+B4734                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B10229                   ,V,V,n/a,,03.02 Severe malnutrition, 90,,,,, 10,Knowledge, 88  
+P11095                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B6602                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Health systems, 90 
+B6608                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 41,04.01 Acute cardiac disease, 26,,, 33,Emergency, 90  
+B5630                    ,V,V,n/a,,07.01 Renal failure, 98,,,,,  2,Knowledge, 99  
+P5997                    ,V,V,n/a,,12.08 Intentional self-harm, 99,,,,,  1,Emergency, 99  
+P571                     ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 81 
+P11169                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+B10038                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+B11099                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 96,,,,,  4,Knowledge, 88  
+B4682                    ,V,V,Pregnancy ended within 6 weeks of death,100,  04.99 Other and unspecified cardiac dis, 78,,,,, 22,Health systems, 90 
+B1135                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 82,,,,, 18,Culture, 83
+P3051                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 99 
+P1060                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Multiple,
+P11685                   ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 79,,,,, 21,Multiple,
+B3754                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 82,,,,, 18,Knowledge, 99  
+B10814                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 76 
+P10862                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+P11510                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B6580                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 87,,,,, 13,Culture, 72
+B7131                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 82  
+B10307                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+P11771                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10473                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+P11214                   ,V,V,n/a,,01.08 & 10.05 Tetanus, 55,01.07 Meningitis and encephalitis, 44,,,  1,Knowledge, 90  
+B11280                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+B6481                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 62,,,,, 38,Multiple,
+B4661                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 59
+B5198                    ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 85,,,,, 15,Health systems, 98 
+B10717                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+P11332                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 98,,,,,  2,Multiple,
+B10051                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 55,01.02 Acute resp infect incl pneumonia, 44,,,  1,Emergency, 62  
+P11695                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Multiple,
+B11998                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 94 
+B7497                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 67,,,,, 33,Knowledge, 99  
+B10637                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B5365                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 97  
+P5712                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 88  
+B3991                    ,V,V,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Health systems, 90 
+P10908                   ,V,V,n/a,,,,,,,,100,Emergency, 94  
+B11548                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+P6399                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 75,,,,, 25,Knowledge, 90  
+B10449                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+B11061                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+P10796                   ,V,V,n/a,,03.02 Severe malnutrition, 98,,,,,  2,Knowledge, 98  
+B12057                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B7449                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 56,04.01 Acute cardiac disease, 35,,,  9,Knowledge, 84  
+P11206                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+P11005                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 71,,,,, 29,Knowledge, 98  
+B11216                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+P11997                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 98  
+P11426                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 74,,,,, 26,Knowledge, 90  
+B22078                   ,V,V,n/a,,10.02 Birth asphyxia, 79,,,,, 21,Emergency, 99  
+B20968                   ,V,V,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Emergency, 62  
+B20984                   ,V,V,n/a,,,,,,,,100,Emergency, 97  
+B22488                   ,V,V,n/a,,10.02 Birth asphyxia, 96,,,,,  4,Emergency, 89  
+B21330                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B20472                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Multiple,
+B21940                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B21663                   ,V,V,n/a,,10.03 Neonatal pneumonia, 91,,,,,  9,Health systems, 99 
+B11490                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 55,01.02 Acute resp infect incl pneumonia, 44,,,  1,Knowledge, 97  
+B10319                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 66,,,,, 34,Emergency, 79  
+B10199                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+P10590                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 73,,,,, 27,Multiple,
+B10040                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Emergency, 79  
+P11748                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 52  
+B10385                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+B10434                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 79 
+B11507                   ,V,V,n/a,,01.03 HIV/AIDS related death, 76,,,,, 24,Health systems, 95 
+B10126                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+P10487                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 89 
+B11059                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 99  
+B10863                   ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+B10188                   ,V,V,n/a,,08.01 Epilepsy, 58,03.02 Severe malnutrition, 29,,, 13,Knowledge, 99  
+B11611                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 73,,,,, 27,Knowledge, 62  
+P20759                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 95  
+B20558                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 94  
+P20764                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 97
+P20199                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 98
+P21997                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B21962                   ,V,V,n/a,,,,,,,,100,Health systems, 99 
+B22268                   ,V,V,n/a,,,,,,,,100,Emergency, 98  
+P21338                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20106                   ,V,V,n/a,,10.04 Neonatal sepsis, 90,,,,, 10,Health systems, 99 
+B22129                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 90 
+P21684                   ,V,V,n/a,,,,,,,,100,Emergency, 99  
+P22147                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20964                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20842                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 90 
+P20808                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22339                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Multiple,
+P22140                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20166                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21768                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20340                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B21806                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 61  
+P21366                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21279                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20403                   ,V,V,n/a,,10.06 Congenital malformation, 55,10.04 Neonatal sepsis, 44,,,  1,Emergency, 98  
+P22314                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22083                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 85
+P22385                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20793                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21745                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 98
+P21416                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 98 
+P22143                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 66  
+P21073                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 82
+P20215                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21508                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B21754                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Inevitable, 99
+B20135                   ,V,V,n/a,,10.02 Birth asphyxia, 92,,,,,  8,Health systems, 79 
+B21209                   ,V,V,n/a,,10.02 Birth asphyxia, 75,,,,, 25,Health systems, 99 
+B22613                   ,V,V,n/a,,10.04 Neonatal sepsis, 99,,,,,  1,Emergency, 99  
+B20138                   ,V,V,n/a,,,,,,,,100,Emergency, 90  
+B21162                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B20835                   ,V,V,n/a,,10.02 Birth asphyxia, 98,,,,,  2,Health systems, 99 
+B21356                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 90  
+B20681                   ,V,V,n/a,,10.02 Birth asphyxia, 63,,,,, 37,Health systems, 99 
+B20559                   ,V,V,n/a,,10.01 Prematurity, 96,,,,,  4,Health systems, 99 
+B21749                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B21689                   ,V,V,n/a,,10.02 Birth asphyxia, 88,,,,, 12,Health systems, 98 
+B21695                   ,V,V,n/a,,10.02 Birth asphyxia, 75,,,,, 25,Inevitable, 66
+B20959                   ,V,V,n/a,,10.02 Birth asphyxia, 76,,,,, 24,Multiple,
+B20796                   ,V,V,n/a,,10.02 Birth asphyxia, 98,,,,,  2,Emergency, 61  
+B21737                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 90  
+B5442                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 82,,,,, 18,Inevitable, 99
+B6030                    ,V,V,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Multiple,
+B5859                    ,V,V,Not pregnant or recently delivered,100,07.01 Renal failure, 80,,,,, 20,Health systems, 90 
+B1671                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 64 
+B4969                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 96,,,,,  4,Emergency, 99  
+B7068                    ,V,V,n/a,,07.01 Renal failure, 62,04.02 Stroke, 31,,,  7,Multiple,
+B1157                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 90  
+B3186                    ,V,V,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 93,,,,,  7,Knowledge, 97  
+B154                     ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B5251                    ,V,V,n/a,,98 Other and unspecified NCD, 98,,,,,  2,Multiple,
+B5534                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 94,,,,,  6,Health systems, 97 
+B1360                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 89 
+B2171                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B1067                    ,V,V,n/a,,04.01 Acute cardiac disease, 46,03.03 Diabetes mellitus, 45,,,  9,Health systems, 90 
+B4824                    ,V,V,n/a,,04.01 Acute cardiac disease, 81,,,,, 19,Multiple,
+B798                     ,V,V,n/a,,04.02 Stroke, 80,,,,, 20,Culture, 99
+B662                     ,V,V,n/a,,04.01 Acute cardiac disease, 71,,,,, 29,Knowledge, 98  
+B1523                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 98  
+B3602                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B5353                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+B5452                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 79,,,,, 21,Inevitable, 61
+B4417                    ,V,V,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 92,,,,,  8, Knowledge, 99  
+B7733                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 54,03.03 Diabetes mellitus, 27,,, 19,Culture, 99
+B3149                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B784                     ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 82,,,,, 18,Health systems, 87 
+B2797                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B1450                    ,V,V,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+B7260                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 75,,,,, 25,Multiple,
+B5376                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 65,07.01 Renal failure, 32,,,  3,Knowledge, 99  
+B20709                   ,V,V,n/a,,,,,,,,100,Health systems, 99 
+B22029                   ,V,V,n/a,,10.02 Birth asphyxia, 96,,,,,  4,Health systems, 90 
+B21431                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B22450                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 90 
+B21250                   ,V,V,n/a,,,,,,,,100,Health systems, 99 
+B22575                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B21371                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B22245                   ,V,V,n/a,,10.02 Birth asphyxia, 90,,,,, 10,Inevitable, 81
+B21666                   ,V,V,n/a,,10.02 Birth asphyxia, 92,,,,,  8,Health systems, 99 
+B21191                   ,V,V,n/a,,10.03 Neonatal pneumonia, 97,,,,,  3,Inevitable, 90
+B22579                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+B20939                   ,V,V,n/a,,10.01 Prematurity, 95,,,,,  5,Health systems, 99 
+B22172                   ,V,V,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+B21828                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+B309                     ,V,V,n/a,,03.03 Diabetes mellitus, 71,,,,, 29,Knowledge, 99  
+P2356                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B1534                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 72
+B1761                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B4777                    ,V,V,n/a,,12.01 Road traffic accident, 71,,,,, 29,Health systems, 75 
+B7018                    ,V,V,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+B23                      ,V,V,n/a,,12.01 Road traffic accident, 98,,,,,  2,Emergency, 99  
+B10993                   ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 90  
+P2426                    ,V,V,n/a,,12.09 Assault, 61,12.08 Intentional self-harm, 38,,,  1,Emergency, 99  
+B5767                    ,V,V,n/a,,12.01 Road traffic accident, 98,,,,,  2,Inevitable, 99
+B781                     ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 98  
+B11820                   ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+P3157                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B5410                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 91,,,,,  9,Inevitable, 96
+P6229                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+P2577                    ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 60  
+B7659                    ,V,V,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+P5613                    ,V,V,n/a,,12.09 Assault, 71,,,,, 29,Emergency, 99  
+P10914                   ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B1111                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B6077                    ,V,V,Not pregnant or recently delivered,100,12.03 Accid fall, 79,,,,, 21,Inevitable, 99
+B4709                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Emergency, 70  
+B3338                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+P10138                   ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B7400                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B7055                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+B4537                    ,V,V,n/a,,12.03 Accid fall, 58,12.08 Intentional self-harm, 29,,, 13,Emergency, 99  
+B11828                   ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 90  
+B630                     ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+B4820                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 98  
+B7747                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 97
+B3251                    ,V,V,n/a,,12.01 Road traffic accident, 66,,,,, 34,Inevitable, 66
+P10813                   ,V,V,n/a,,,,,,,,100,Emergency, 55  
+B1383                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B3751                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 88  
+B7681                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B4708                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+P1970                    ,V,V,Not pregnant or recently delivered,100,,,,,,,100,Health systems, 61 
+B6577                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+B1257                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+P181                     ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 90
+B2628                    ,V,V,n/a,,12.01 Road traffic accident, 98,,,,,  2,Emergency, 99  
+P11346                   ,V,V,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+B2331                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 66
+B4328                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 84,,,,, 16,Emergency, 98  
+B6161                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+B2464                    ,V,V,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+B993                     ,V,V,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 99,,,,,  1,Health systems, 99 
+B5172                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 47,09.02 Abortion-related death, 45,,,  8,Multiple,
+B22136                   ,V,V,n/a,,10.04 Neonatal sepsis, 71,,,,, 29,Health systems, 99 
+B20649                   ,V,V,n/a,,10.02 Birth asphyxia, 95,,,,,  5,Health systems, 71 
+B21640                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+B21714                   ,V,V,n/a,,,,,,,,100,Emergency, 90  
+B11711                   ,V,V,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Knowledge, 90  
+B11248                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 79,,,,, 21,Knowledge, 99  
+B10574                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Knowledge, 86  
+B10272                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B10994                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Health systems, 66 
+B11018                   ,V,V,n/a,,10.06 Congenital malformation, 44,06.01 Acute abdomen, 35,,, 21,  Multiple,
+B10799                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 55 
+B11235                   ,V,V,n/a,,01.99 Other and unspecified infect dis, 56,03.02 Severe malnutrition, 43,,,  1,Knowledge, 99  
+B11566                   ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 83  
+P20046                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 97
+P20226                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21627                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+P21253                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P20570                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21360                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20480                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21153                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20522                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P20004                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+P20495                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21893                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P22442                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22317                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21956                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+P22233                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 66  
+P22072                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20192                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P20647                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22518                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22387                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21543                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21361                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20615                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P22183                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21208                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21309                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20625                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P21934                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21582                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21381                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22332                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20676                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22423                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22257                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 83
+P21637                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21133                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+P21827                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20291                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20272                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21821                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20989                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22114                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21186                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+P21301                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+P20972                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22322                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21558                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20883                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P22459                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+P20342                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20182                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 97
+P22184                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P20151                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 92  
+P22499                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21550                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21841                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21015                   ,V,V,n/a,,10.02 Birth asphyxia, 90,,,,, 10,Emergency, 99  
+P22028                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21626                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+P21183                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B3862                    ,V,V,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 94,,,,,  6, Knowledge, 90  
+B3290                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 98  
+B5408                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 82,,,,, 18,Knowledge, 92  
+B3619                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 88,,,,, 12,Knowledge, 99  
+B6998                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B2320                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B4408                    ,V,V,n/a,,04.02 Stroke, 94,,,,,  6,Inevitable, 59
+B380                     ,V,V,n/a,,04.02 Stroke, 71,,,,, 29,Knowledge, 98  
+B3282                    ,V,V,n/a,,04.02 Stroke, 90,,,,, 10,Knowledge, 98  
+B1037                    ,V,V,n/a,,98 Other and unspecified NCD, 88,,,,, 12,Knowledge, 99  
+B5653                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B4041                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Knowledge, 97  
+B4303                    ,V,V,n/a,,04.02 Stroke, 82,,,,, 18,Inevitable, 99
+B6458                    ,V,V,n/a,,04.01 Acute cardiac disease, 56,03.03 Diabetes mellitus, 35,,,  9,Multiple,
+B1154                    ,V,V,n/a,,12.01 Road traffic accident, 97,,,,,  3,Inevitable, 96
+B6883                    ,V,V,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+B6164                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 88  
+B7065                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 89  
+B653                     ,V,V,n/a,,04.02 Stroke, 87,,,,, 13,Multiple,
+B4227                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Knowledge, 99  
+B751                     ,V,V,n/a,,04.02 Stroke, 94,,,,,  6,Knowledge, 83  
+B4342                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B786                     ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 99
+B1179                    ,V,V,Pregnant at death, 92,04.02 Stroke, 82,,,,, 18,Health systems, 66 
+B3132                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B6366                    ,V,V,n/a,,04.01 Acute cardiac disease, 55,04.02 Stroke, 27,,, 18,Multiple,
+B5975                    ,V,V,n/a,,04.01 Acute cardiac disease, 59,04.99 Other and unspecified cardiac dis, 37,,,  4,Health systems, 99 
+B1591                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+B5426                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 94
+B4397                    ,V,V,n/a,,04.01 Acute cardiac disease, 58,04.02 Stroke, 29,,, 13,Inevitable, 98
+B5040                    ,V,V,n/a,,04.02 Stroke, 41,04.01 Acute cardiac disease, 32,04.99 Other and unspecified cardiac dis, 25,  2,Health systems, 83 
+B6483                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B2744                    ,V,V,n/a,,04.01 Acute cardiac disease, 66,,,,, 34,Knowledge, 99  
+B329                     ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Culture, 98
+B1339                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Health systems, 69 
+B4759                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Culture, 90
+B1134                    ,V,V,n/a,,04.01 Acute cardiac disease, 62,04.99 Other and unspecified cardiac dis, 37,,,  1,Culture, 92
+B3669                    ,V,V,n/a,,04.01 Acute cardiac disease, 75,,,,, 25,Culture, 55
+B1442                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B2608                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B5394                    ,V,V,n/a,,04.01 Acute cardiac disease, 80,,,,, 20,Inevitable, 61
+B2222                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 41,04.99 Other and unspecified cardiac dis, 26,,, 33,Knowledge, 99  
+B7821                    ,V,V,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 82  
+B5851                    ,V,V,n/a,,04.02 Stroke, 98,,,,,  2,Multiple,
+B1201                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 97  
+B4406                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 82  
+B7019                    ,V,V,n/a,,04.01 Acute cardiac disease, 98,,,,,  2,Multiple,
+B6917                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 68,,,,, 32,Multiple,
+B2615                    ,V,V,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 63,01.09 Pulmonary tuberculosis, 32,,,  5,Multiple,
+B7384                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B7797                    ,V,V,n/a,,03.03 Diabetes mellitus, 58,,,,, 42,Multiple,
+B7773                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 99,,,,,  1,Knowledge, 98  
+B4771                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+B5045                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B2469                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 69,,,,, 31,Knowledge, 90  
+B4792                    ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+B3578                    ,V,V,n/a,,04.01 Acute cardiac disease, 56,,,,, 44,Inevitable, 94
+B193                     ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 90
+B5864                    ,V,V,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 66 
+B4651                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B4424                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 49,04.01 Acute cardiac disease, 38,,, 13,Inevitable, 93
+B6740                    ,V,V,n/a,,04.01 Acute cardiac disease, 70,,,,, 30,Multiple,
+B2421                    ,V,V,Not pregnant or recently delivered,100,04.02 Stroke, 97,,,,,  3,Health systems, 99 
+B4529                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Knowledge, 99  
+B6899                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+B3319                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 98  
+B22                      ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 90  
+B3303                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 90  
+B1760                    ,V,V,n/a,,04.02 Stroke, 96,,,,,  4,Inevitable, 98
+B5224                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 47,04.02 Stroke, 36,,, 17,Knowledge, 94  
+B1514                    ,V,V,n/a,,03.03 Diabetes mellitus, 96,,,,,  4,Multiple,
+B538                     ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+B4788                    ,V,V,n/a,,06.02 Liver cirrhosis, 65,,,,, 35,Multiple,
+B5905                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 83  
+B427                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 87,,,,, 13,Knowledge, 99  
+B3471                    ,V,V,n/a,,04.01 Acute cardiac disease, 89,,,,, 11,Knowledge, 75  
+B1488                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 61
+B2552                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Inevitable, 93
+B272                     ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B5893                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B5574                    ,V,V,n/a,,03.03 Diabetes mellitus, 98,,,,,  2,Emergency, 98  
+B2073                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 89  
+B4074                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Culture, 90
+B967                     ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 94
+B2790                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 99  
+B7548                    ,V,V,n/a,,04.01 Acute cardiac disease, 94,,,,,  6,Culture, 83
+B6424                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+B6522                    ,V,V,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+B7395                    ,V,V,n/a,,04.01 Acute cardiac disease, 84,,,,, 16,Knowledge, 90  
+B3603                    ,V,V,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 93,,,,,  7,Culture, 98
+B3129                    ,V,V,n/a,,03.03 Diabetes mellitus, 83,,,,, 17,Multiple,
+B6387                    ,V,V,n/a,,07.01 Renal failure, 81,,,,, 19,Knowledge, 99  
+B4990                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 89  
+B1868                    ,V,V,n/a,,04.99 Other and unspecified cardiac dis, 81,,,,, 19,Health systems, 52 
+B1426                    ,V,V,Not pregnant or recently delivered,100,12.08 Intentional self-harm, 99,,,,,  1,Emergency, 99  
+B1714                    ,V,V,Not pregnant or recently delivered,100,12.08 Intentional self-harm, 60,12.09 Assault, 39,,,  1,Emergency, 99  
+P340                     ,V,V,n/a,,12.09 Assault, 56,12.08 Intentional self-harm, 43,,,  1,Emergency, 99  
+B3491                    ,V,V,n/a,,12.08 Intentional self-harm, 99,,,,,  1,Inevitable, 96
+B2476                    ,V,V,n/a,,12.08 Intentional self-harm, 97,,,,,  3,Emergency, 99  
+P5847                    ,V,V,n/a,,12.09 Assault, 71,,,,, 29,Emergency, 99  
+B2714                    ,V,V,Not pregnant or recently delivered,100,12.01 Road traffic accident, 61,12.08 Intentional self-harm, 38,,,  1,Inevitable, 99
+B1253                    ,V,V,n/a,,12.08 Intentional self-harm, 85,,,,, 15,Inevitable, 66
+B7445                    ,V,V,n/a,,12.08 Intentional self-harm, 94,,,,,  6,Inevitable, 66
+B7693                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 90 
+B1963                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 99  
+B5596                    ,V,V,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Multiple,
+B691                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 91,,,,,  9,Knowledge, 99  
+B7002                    ,V,V,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 99 
+B582                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B4105                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+B5801                    ,V,V,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Knowledge, 99  
+B7530                    ,V,V,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 88,,,,, 12, Knowledge, 98  
+P7114                    ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 89 
+B459                     ,V,V,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 90 
+B7332                    ,V,V,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 99  
+B769                     ,V,V,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 97,,,,,  3,Inevitable, 99
+B22404                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20525                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21580                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20946                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B20384                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B21259                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21954                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22471                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B22194                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B20745                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21864                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20245                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21251                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21037                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20624                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21060                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21899                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20516                   ,V,V,n/a,,11.01 Fresh stillbirth, 99,,,,,  1,Inevitable, 99
+B22076                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20049                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B20114                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B21307                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22521                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20441                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22506                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Health systems, 89 
+B20240                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B22154                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22395                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21646                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B20586                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20673                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22051                   ,V,V,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+B21857                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20903                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B20844                   ,V,V,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+B20873                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22102                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B20859                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21391                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20136                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22126                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21659                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22120                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21512                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22256                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21559                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20381                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21667                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B22191                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B21753                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B22118                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B20712                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20398                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21917                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B22496                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20781                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B21826                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20072                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B21927                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B20194                   ,V,V,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+B22489                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20197                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20783                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21396                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20084                   ,V,V,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+B20116                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B21964                   ,V,V,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+B21933                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+B20707                   ,V,V,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+

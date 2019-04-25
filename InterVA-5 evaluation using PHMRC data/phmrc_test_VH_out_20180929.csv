@@ -1,0 +1,1022 @@
+iv5_id,malprev,hivprev,pregstat,preglik,cause1,lik1,cause2,lik2,cause3,lik3,indet,comcat,comnum
+M3788                    ,V,H,n/a,,06.02 Liver cirrhosis, 75,,,,, 25,Culture, 99
+M895                     ,V,H,n/a,,06.02 Liver cirrhosis, 87,,,,, 13,Knowledge, 99  
+M1860                    ,V,H,n/a,,01.03 HIV/AIDS related death, 95,,,,,  5,Knowledge, 82  
+M1835                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Knowledge, 84  
+M6052                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 89  
+M3626                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+M6697                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M1241                    ,V,H,n/a,,04.02 Stroke, 90,,,,, 10,Knowledge, 99  
+M2734                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 99 
+M1821                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Multiple,
+M6871                    ,V,H,n/a,,02.03 Respiratory neoplasms, 90,,,,, 10,Multiple,
+M7129                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M4023                    ,V,H,n/a,,02.02 Digestive neoplasms, 88,,,,, 12,Inevitable, 99
+M1741                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Multiple,
+M3100                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 98
+M3561                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 64
+M3860                    ,V,H,n/a,,12.01 Road traffic accident, 94,,,,,  6,Inevitable, 98
+M7016                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 80,,,,, 20,Multiple,
+M1918                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M2335                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 79
+M5264                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Multiple,
+M4710                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 69,,,,, 31,Health systems, 98 
+M7452                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M3816                    ,V,H,n/a,,03.03 Diabetes mellitus, 94,,,,,  6,Culture, 99
+M6879                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4497                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M7225                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M3594                    ,V,H,Not pregnant or recently delivered,100,02.03 Respiratory neoplasms, 99,,,,,  1,Health systems, 97 
+M1777                    ,V,H,Not pregnant or recently delivered,100,02.03 Respiratory neoplasms, 81,,,,, 19,Health systems, 99 
+M5730                    ,V,H,n/a,,01.03 HIV/AIDS related death, 95,,,,,  5,Knowledge, 79  
+M6259                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 75,,,,, 25,Inevitable, 78
+M7312                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M960                     ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Culture, 98
+M2842                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M2397                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M2540                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Culture, 83
+M3706                    ,V,H,n/a,,98 Other and unspecified NCD, 55,,,,, 45,Knowledge, 99  
+M5897                    ,V,H,Not pregnant or recently delivered,100,02.99 Other and unspecified neoplasms, 50,01.03 HIV/AIDS related death, 32,,, 18, Knowledge, 90  
+M7578                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4805                    ,V,H,n/a,,02.03 Respiratory neoplasms, 95,,,,,  5,Inevitable, 99
+M4814                    ,V,H,n/a,,04.02 Stroke, 92,,,,,  8,Knowledge, 83  
+M6129                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4290                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Multiple,
+M3575                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Multiple,
+M6972                    ,V,H,n/a,,01.03 HIV/AIDS related death, 97,,,,,  3,Knowledge, 70  
+M4142                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M7279                    ,V,H,n/a,,01.03 HIV/AIDS related death, 92,,,,,  8,Culture, 82
+M1492                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M505                     ,V,H,n/a,,01.03 HIV/AIDS related death, 42,05.01 Chronic obstructive pulmonary dis, 34,02.02 Digestive neoplasms, 21,  3, Health systems, 99 
+M2136                    ,V,H,n/a,,06.02 Liver cirrhosis, 94,,,,,  6,Knowledge, 90  
+M2683                    ,V,H,n/a,,01.03 HIV/AIDS related death, 64,02.02 Digestive neoplasms, 32,,,  4,Knowledge, 90  
+M3598                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 96,,,,,  4,Health systems, 90 
+M2124                    ,V,H,n/a,,12.01 Road traffic accident, 97,,,,,  3,Health systems, 96 
+M5758                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 85  
+M5005                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Knowledge, 90  
+M5913                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M3634                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+M136                     ,V,H,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 63,,,,, 37,Culture, 60
+M7573                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Culture, 98
+M2918                    ,V,H,n/a,,02.02 Digestive neoplasms, 82,,,,, 18,Knowledge, 99  
+M2430                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 90,,,,, 10,Culture, 82
+M3009                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M1162                    ,V,H,n/a,,04.01 Acute cardiac disease, 50,06.02 Liver cirrhosis, 49,,,  1,Multiple,
+M2762                    ,V,H,n/a,,01.03 HIV/AIDS related death, 88,,,,, 12,Knowledge, 98  
+M2008                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 77,,,,, 23,Health systems, 90 
+M248                     ,V,H,n/a,,01.03 HIV/AIDS related death, 97,,,,,  3,Knowledge, 99  
+M3994                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 96,,,,,  4,Emergency, 99  
+M3776                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M6289                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 82  
+M5397                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 74
+M6471                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Health systems, 98 
+M4051                    ,V,H,n/a,,04.01 Acute cardiac disease, 79,,,,, 21,Emergency, 99  
+M1247                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 54,04.01 Acute cardiac disease, 43,,,  3,Inevitable, 72
+M6224                    ,V,H,n/a,,03.03 Diabetes mellitus, 93,,,,,  7,Emergency, 79  
+M6722                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 99  
+M33                      ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 70,,,,, 30,Health systems, 83 
+M544                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 93
+M3539                    ,V,H,n/a,,12.03 Accid fall, 88,,,,, 12,Inevitable, 99
+M1691                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 97  
+M4967                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 93,,,,,  7, Emergency, 60  
+M7667                    ,V,H,n/a,,01.07 Meningitis and encephalitis, 46,01.02 Acute resp infect incl pneumonia, 29,04.99 Other and unspecified cardiac dis, 23,  2,Culture, 90
+M5304                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 99
+M6878                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 92,,,,,  8,Inevitable, 86
+M1831                    ,V,H,n/a,,04.01 Acute cardiac disease, 93,,,,,  7,Inevitable, 96
+M1750                    ,V,H,n/a,,12.03 Accid fall, 96,,,,,  4,Inevitable, 99
+M4893                    ,V,H,n/a,,02.03 Respiratory neoplasms, 91,,,,,  9,Inevitable, 99
+M7231                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 94
+M2198                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+M6815                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 55
+M250                     ,V,H,n/a,,04.01 Acute cardiac disease, 71,,,,, 29,Inevitable, 99
+M133                     ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 99
+M6669                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 99
+M1115                    ,V,H,n/a,,12.06 Contact with venomous plant/animal, 94,,,,,  6,Inevitable, 76
+M2570                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M5720                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 53,04.99 Other and unspecified cardiac dis, 44,,,  3,Culture, 89
+M3269                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 88,,,,, 12,Emergency, 82  
+M962                     ,V,H,n/a,,03.03 Diabetes mellitus, 66,,,,, 34,Culture, 90
+M6059                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M5032                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 98  
+M7678                    ,V,H,n/a,,04.01 Acute cardiac disease, 88,,,,, 12,Emergency, 99  
+M3878                    ,V,H,n/a,,03.03 Diabetes mellitus, 71,,,,, 29,Inevitable, 59
+M5652                    ,V,H,n/a,,12.09 Assault, 94,,,,,  6,Inevitable, 96
+M7360                    ,V,H,n/a,,04.01 Acute cardiac disease, 79,,,,, 21,Emergency, 99  
+M4496                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 92,,,,,  8,Emergency, 99  
+M706                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M5057                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 79,,,,, 21,Health systems, 90 
+M2389                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 84,,,,, 16,Emergency, 99  
+M5950                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 97,,,,,  3,Emergency, 99  
+M4056                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+M2817                    ,V,H,n/a,,12.08 Intentional self-harm, 54,12.03 Accid fall, 43,,,  3,Inevitable, 80
+M2701                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 98 
+M20726                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M20879                   ,V,H,n/a,,,,,,,,100,Health systems, 90 
+M20880                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 98 
+M20285                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 99  
+M20316                   ,V,H,n/a,,10.01 Prematurity, 79,,,,, 21,Emergency, 96  
+M22234                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M22297                   ,V,H,n/a,,10.02 Birth asphyxia, 97,,,,,  3,Emergency, 99  
+M21145                   ,V,H,n/a,,10.04 Neonatal sepsis, 66,10.06 Congenital malformation, 33,,,  1,Health systems, 99 
+M21614                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 99  
+M22250                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M22061                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+M21139                   ,V,H,n/a,,10.01 Prematurity, 66,,,,, 34,Emergency, 99  
+M21950                   ,V,H,n/a,,10.02 Birth asphyxia, 90,,,,, 10,Health systems, 99 
+M22192                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M21197                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 94  
+M20078                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 95  
+M21090                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M21462                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 90  
+M21023                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M20070                   ,V,H,n/a,,10.02 Birth asphyxia,100,,,,,  0,Emergency, 99  
+M20630                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M21156                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Inevitable, 89
+M21989                   ,V,H,n/a,,10.02 Birth asphyxia, 54,10.01 Prematurity, 45,,,  1,Health systems, 99 
+M21965                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+M20173                   ,V,H,n/a,,10.01 Prematurity, 90,,,,, 10,Emergency, 99  
+M20148                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+M21504                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M20030                   ,V,H,n/a,,10.04 Neonatal sepsis, 91,,,,,  9,Health systems, 99 
+M1192                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Multiple,
+M6581                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 99,,,,,  1,Inevitable, 75
+M612                     ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Knowledge, 83  
+M2581                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Inevitable, 99
+M2359                    ,V,H,n/a,,01.03 HIV/AIDS related death, 75,,,,, 25,Inevitable, 89
+M956                     ,V,H,n/a,,02.03 Respiratory neoplasms, 54,04.99 Other and unspecified cardiac dis, 27,,, 19,Inevitable, 94
+M184                     ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M1315                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M4700                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 56
+M3784                    ,V,H,n/a,,02.04 Breast neoplasms, 98,,,,,  2,Inevitable, 99
+M6490                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Multiple,
+M6184                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 92,,,,,  8, Inevitable, 99
+M304                     ,V,H,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Knowledge, 90  
+M7425                    ,V,H,n/a,,01.03 HIV/AIDS related death, 95,,,,,  5,Knowledge, 98  
+M5444                    ,V,H,n/a,,01.03 HIV/AIDS related death, 67,,,,, 33,Knowledge, 99  
+M3632                    ,V,H,n/a,,05.01 Chronic obstructive pulmonary dis, 92,,,,,  8,Inevitable, 99
+M5280                    ,V,H,n/a,,12.01 Road traffic accident, 65,,,,, 35,Inevitable,100
+M5330                    ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M6310                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Inevitable, 61
+M3126                    ,V,H,Not pregnant or recently delivered,100,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+M7486                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 98
+M6711                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 49,07.01 Renal failure, 47,,,  4,Culture, 90
+M1325                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 60,06.02 Liver cirrhosis, 37,,,  3,Knowledge, 90  
+M5024                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 95,,,,,  5,Inevitable, 99
+M4114                    ,V,H,n/a,,06.02 Liver cirrhosis, 69,,,,, 31,Inevitable, 99
+M5973                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 98,,,,,  2,Knowledge, 98  
+M6857                    ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 90,,,,, 10,Inevitable, 99
+M1636                    ,V,H,n/a,,01.03 HIV/AIDS related death, 86,,,,, 14,Inevitable, 99
+M5636                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M6439                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 60,01.03 HIV/AIDS related death, 37,,,  3,Health systems, 86 
+M4042                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 99,,,,,  1,Health systems, 99 
+M1110                    ,V,H,n/a,,02.04 Breast neoplasms, 99,,,,,  1,Health systems, 99 
+M4693                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 99
+M6402                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M4407                    ,V,H,n/a,,98 Other and unspecified NCD, 40,04.99 Other and unspecified cardiac dis, 32,03.03 Diabetes mellitus, 26,  2,Knowledge, 99  
+M1548                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Multiple,
+M511                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Emergency, 99  
+M364                     ,V,H,n/a,,06.01 Acute abdomen, 87,,,,, 13,Emergency, 99  
+M4                       ,V,H,n/a,,06.02 Liver cirrhosis, 83,,,,, 17,Health systems, 99 
+M6866                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 85,,,,, 15,Inevitable, 99
+M445                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Multiple,
+M27                      ,V,H,n/a,,98 Other and unspecified NCD, 79,,,,, 21,Inevitable, 99
+M4779                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 90 
+M905                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Emergency, 60  
+M6806                    ,V,H,n/a,,06.02 Liver cirrhosis, 68,,,,, 32,Inevitable, 99
+M4615                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+M46                      ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M2800                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 80  
+M3614                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 91,,,,,  9,Culture, 90
+M3597                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 70,,,,, 30,Multiple,
+M5010                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 88,,,,, 12,Inevitable, 99
+M1500                    ,V,H,n/a,,12.03 Accid fall, 70,,,,, 30,Inevitable, 99
+M1430                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 58,,,,, 42,Inevitable, 68
+M1404                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 99  
+M979                     ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Emergency, 75  
+M4387                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Knowledge, 98  
+M7503                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M4069                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 71
+M5216                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 93
+M4570                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+M1031                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M3413                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 85,,,,, 15,Inevitable, 99
+M3872                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 55,04.01 Acute cardiac disease, 44,,,  1,Culture, 86
+M2019                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 97,,,,,  3,Emergency, 90  
+M6920                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 99  
+M2410                    ,V,H,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 62,02.02 Digestive neoplasms, 37,,,  1,   Knowledge, 99  
+M2539                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 51,02.99 Other and unspecified neoplasms, 40,,,  9,Knowledge, 99  
+M4744                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 91,,,,,  9,Health systems, 99 
+M7299                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Knowledge, 98  
+M7842                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 97,,,,,  3, Knowledge, 99  
+M7763                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 99
+M3712                    ,V,H,n/a,,12.01 Road traffic accident, 79,,,,, 21,Inevitable, 53
+M4502                    ,V,H,n/a,,01.03 HIV/AIDS related death, 96,,,,,  4,Inevitable, 99
+M7111                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Inevitable, 84
+M3305                    ,V,H,n/a,,02.02 Digestive neoplasms, 71,,,,, 29,Inevitable, 99
+M6718                    ,V,H,n/a,,12.08 Intentional self-harm, 91,,,,,  9,Inevitable, 99
+M6372                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+M3017                    ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+M264                     ,V,H,n/a,,98 Other and unspecified NCD, 97,,,,,  3,Multiple,
+M7259                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+M5544                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 48,,,,, 52,Knowledge, 90  
+M7095                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 99
+M406                     ,V,H,n/a,,06.02 Liver cirrhosis, 58,01.03 HIV/AIDS related death, 39,,,  3,Knowledge, 70  
+M4569                    ,V,H,n/a,,01.03 HIV/AIDS related death, 83,,,,, 17,Knowledge, 99  
+M5863                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M1172                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 99  
+M4170                    ,V,H,n/a,,06.02 Liver cirrhosis, 54,04.99 Other and unspecified cardiac dis, 42,,,  4,Emergency, 99  
+M5505                    ,V,H,n/a,,98 Other and unspecified NCD, 84,,,,, 16,Knowledge, 83  
+M5244                    ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 99
+M482                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 98
+M2782                    ,V,H,n/a,,02.02 Digestive neoplasms, 72,,,,, 28,Knowledge, 99  
+M4680                    ,V,H,n/a,,02.02 Digestive neoplasms, 74,,,,, 26,Inevitable, 66
+M3656                    ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 99  
+M6635                    ,V,H,n/a,,06.02 Liver cirrhosis, 64,,,,, 36,Knowledge, 96  
+M3224                    ,V,H,n/a,,98 Other and unspecified NCD, 54,01.03 HIV/AIDS related death, 45,,,  1,Knowledge, 99  
+M6124                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Knowledge, 76  
+M3579                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 55,,,,, 45,Emergency, 66  
+M6958                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+M4274                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 96,,,,,  4,Knowledge, 99  
+M7840                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 98
+M6463                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 93,,,,,  7,Emergency, 99  
+M3515                    ,V,H,n/a,,01.03 HIV/AIDS related death, 96,,,,,  4,Knowledge, 99  
+M1706                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Emergency, 99  
+M1663                    ,V,H,n/a,,98 Other and unspecified NCD, 81,,,,, 19,Knowledge, 90  
+M5056                    ,V,H,n/a,,02.02 Digestive neoplasms, 98,,,,,  2,Inevitable, 97
+M1024                    ,V,H,n/a,,01.03 HIV/AIDS related death, 94,,,,,  6,Inevitable, 78
+M3445                    ,V,H,n/a,,02.02 Digestive neoplasms, 92,,,,,  8,Knowledge, 99  
+M6999                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Multiple,
+M2458                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Health systems, 90 
+M103                     ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M3358                    ,V,H,n/a,,12.09 Assault, 85,,,,, 15,Emergency, 82  
+M3833                    ,V,H,n/a,,02.02 Digestive neoplasms, 82,,,,, 18,Emergency, 99  
+M3325                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 93,,,,,  7,Emergency, 90  
+M4720                    ,V,H,n/a,,98 Other and unspecified NCD, 86,,,,, 14,Knowledge, 98  
+M5431                    ,V,H,n/a,,98 Other and unspecified NCD, 68,,,,, 32,Knowledge, 88  
+M5166                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 96
+M7064                    ,V,H,n/a,,04.01 Acute cardiac disease, 94,,,,,  6,Knowledge, 98  
+M2715                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+M2258                    ,V,H,n/a,,06.02 Liver cirrhosis, 71,,,,, 29,Inevitable, 99
+M4926                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M926                     ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M7834                    ,V,H,n/a,,12.01 Road traffic accident, 79,,,,, 21,Knowledge, 90  
+M4429                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Knowledge, 99  
+M2824                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M3521                    ,V,H,n/a,,02.02 Digestive neoplasms, 90,,,,, 10,Inevitable, 78
+M5437                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Knowledge, 99  
+M6874                    ,V,H,n/a,,07.01 Renal failure, 55,01.03 HIV/AIDS related death, 36,,,  9,Knowledge, 98  
+M6140                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+M3109                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 86,,,,, 14,Multiple,
+M6574                    ,V,H,n/a,,03.03 Diabetes mellitus, 83,,,,, 17,Inevitable, 99
+M439                     ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+M6627                    ,V,H,n/a,,06.02 Liver cirrhosis, 51,,,,, 49,Knowledge, 90  
+M808                     ,V,H,n/a,,02.02 Digestive neoplasms, 98,,,,,  2,Knowledge, 71  
+M3593                    ,V,H,n/a,,02.02 Digestive neoplasms, 86,,,,, 14,Knowledge, 82  
+M569                     ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 99  
+M5793                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M6201                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 40,01.03 HIV/AIDS related death, 32,02.99 Other and unspecified neoplasms, 25,  3,Knowledge, 89  
+M4480                    ,V,H,n/a,,01.03 HIV/AIDS related death, 53,,,,, 47,Knowledge, 99  
+M3812                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 90
+M2316                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 65
+M5625                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M1369                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M4335                    ,V,H,n/a,,01.03 HIV/AIDS related death, 92,,,,,  8,Inevitable, 95
+M7053                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 61,02.02 Digestive neoplasms, 38,,,  1,Knowledge, 99  
+M7682                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M3170                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M1232                    ,V,H,n/a,,98 Other and unspecified NCD, 44,02.02 Digestive neoplasms, 28,,, 28,  Knowledge, 98  
+M1779                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 80,,,,, 20,Inevitable, 98
+M2391                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M6916                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Emergency, 99  
+M6341                    ,V,H,n/a,,02.02 Digestive neoplasms, 91,,,,,  9,Inevitable, 99
+M2370                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M7420                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+M7457                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M5393                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 90  
+M5918                    ,V,H,n/a,,02.02 Digestive neoplasms, 94,,,,,  6,Inevitable, 99
+M7428                    ,V,H,n/a,,98 Other and unspecified NCD, 63,,,,, 37,Inevitable, 99
+M3889                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 99  
+M3631                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Inevitable, 99
+M4515                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 83  
+M3280                    ,V,H,n/a,,02.02 Digestive neoplasms, 65,,,,, 35,Knowledge, 99  
+M22058                   ,V,H,n/a,,,,,,,,100,Emergency, 90  
+M20378                   ,V,H,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Health systems, 99 
+M21712                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M21607                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 55  
+M22364                   ,V,H,n/a,,,,,,,,100,Inevitable, 99
+M22033                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 88  
+M21418                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Multiple,
+M20931                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+M22438                   ,V,H,n/a,,,,,,,,100,Emergency, 98  
+M21573                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M20710                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 90  
+M22246                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 99
+M20837                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M22526                   ,V,H,n/a,,,,,,,,100,Inevitable, 97
+M20102                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+M20928                   ,V,H,n/a,,10.03 Neonatal pneumonia, 99,,,,,  1,Emergency, 99  
+M20318                   ,V,H,n/a,,10.03 Neonatal pneumonia, 70,,,,, 30,Health systems, 98 
+M20143                   ,V,H,n/a,,10.01 Prematurity, 98,,,,,  2,Emergency, 99  
+M20756                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 83
+M21890                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 95  
+M20432                   ,V,H,n/a,,,,,,,,100,Health systems, 99 
+M20990                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M22617                   ,V,H,n/a,,10.01 Prematurity, 62,10.02 Birth asphyxia, 37,,,  1,Health systems, 99 
+M22602                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M21387                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M21373                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 97  
+M21057                   ,V,H,n/a,,10.04 Neonatal sepsis, 85,,,,, 15,Health systems, 99 
+M20331                   ,V,H,n/a,,10.04 Neonatal sepsis, 99,,,,,  1,Health systems, 99 
+M20722                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M20789                   ,V,H,n/a,,10.02 Birth asphyxia, 86,,,,, 14,Emergency, 88  
+M20776                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M20644                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 98  
+M21728                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 98  
+M20401                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 98 
+M22247                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 66  
+M4104                    ,V,H,n/a,,,,,,,,100,Knowledge, 60  
+M1659                    ,V,H,n/a,,04.01 Acute cardiac disease, 95,,,,,  5,Emergency, 88  
+M7220                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M7696                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4686                    ,V,H,n/a,,12.03 Accid fall, 88,,,,, 12,Inevitable, 99
+M6945                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 97
+M1101                    ,V,H,n/a,,98 Other and unspecified NCD, 70,,,,, 30,Inevitable, 92
+M5165                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 99  
+M4997                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Knowledge, 89  
+M2749                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 90  
+M7507                    ,V,H,n/a,,01.03 HIV/AIDS related death, 96,,,,,  4,Health systems, 99 
+M4580                    ,V,H,n/a,,98 Other and unspecified NCD, 88,,,,, 12,Knowledge, 90  
+M519                     ,V,H,n/a,,01.04 Diarrhoeal diseases, 81,,,,, 19,Knowledge, 99  
+M1646                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Multiple,
+M5187                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 98
+M7204                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 75,,,,, 25,Health systems, 90 
+M1459                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+M7241                    ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Inevitable, 69
+M2428                    ,V,H,n/a,,06.02 Liver cirrhosis, 74,,,,, 26,Multiple,
+M3587                    ,V,H,n/a,,01.03 HIV/AIDS related death, 82,,,,, 18,Inevitable, 99
+M2702                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+M6118                    ,V,H,n/a,,12.01 Road traffic accident, 98,,,,,  2,Knowledge, 90  
+M5830                    ,V,H,n/a,,06.02 Liver cirrhosis, 77,,,,, 23,Knowledge, 90  
+M5387                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 44,01.03 HIV/AIDS related death, 43,,, 13,Multiple,
+M6284                    ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 70,,,,, 30,Knowledge, 99  
+M3390                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Multiple,
+M5002                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Inevitable, 99
+M2158                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 96 
+M4848                    ,V,H,n/a,,01.03 HIV/AIDS related death, 76,,,,, 24,Knowledge, 98  
+M3012                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Culture, 99
+M5592                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Knowledge, 87  
+M1038                    ,V,H,n/a,,04.01 Acute cardiac disease, 71,,,,, 29,Emergency, 97  
+M1086                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 48,07.01 Renal failure, 48,,,  4,Knowledge, 90  
+M6524                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 98,,,,,  2,Emergency, 94  
+M796                     ,V,H,n/a,,01.99 Other and unspecified infect dis, 96,,,,,  4,Knowledge, 99  
+M4987                    ,V,H,n/a,,,,,,,,100,Knowledge, 99  
+M3600                    ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 61
+M3204                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Health systems, 90 
+M3786                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 86,,,,, 14,Health systems, 98 
+M1920                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M1371                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 99  
+M7346                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 88
+M5195                    ,V,H,n/a,,03.03 Diabetes mellitus, 83,,,,, 17,Inevitable, 75
+M1845                    ,V,H,n/a,,06.02 Liver cirrhosis, 90,,,,, 10,Emergency, 99  
+M6560                    ,V,H,n/a,,06.02 Liver cirrhosis, 65,06.01 Acute abdomen, 32,,,  3,Health systems, 97 
+M371                     ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 97
+M3670                    ,V,H,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 97,,,,,  3,Emergency, 98  
+M4213                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Emergency, 99  
+M6813                    ,V,H,Not pregnant or recently delivered,100,04.02 Stroke, 76,,,,, 24,Health systems, 99 
+M7368                    ,V,H,n/a,,98 Other and unspecified NCD, 46,01.09 Pulmonary tuberculosis, 30,,, 24, Inevitable, 99
+M6757                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 89  
+M4715                    ,V,H,n/a,,06.02 Liver cirrhosis, 86,,,,, 14,Multiple,
+M975                     ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Culture, 90
+M1592                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M2772                    ,V,H,n/a,,03.03 Diabetes mellitus, 67,,,,, 33,Multiple,
+M1330                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 90  
+M4735                    ,V,H,n/a,,06.02 Liver cirrhosis, 95,,,,,  5,Knowledge, 98  
+M1872                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Inevitable, 86
+M3702                    ,V,H,n/a,,98 Other and unspecified NCD, 49,07.01 Renal failure, 49,,,  2,Multiple,
+M618                     ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Health systems, 89 
+M2053                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Multiple,
+M6408                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M4867                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 46,98 Other and unspecified NCD, 46,,,  8,Knowledge, 98  
+M1764                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 52,02.03 Respiratory neoplasms, 32,,, 16,  Inevitable, 99
+M4911                    ,V,H,n/a,,07.01 Renal failure, 93,,,,,  7,Inevitable, 66
+M987                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 93,,,,,  7,Emergency, 99  
+M2007                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Health systems, 90 
+M6555                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Inevitable, 99
+M3110                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 86,,,,, 14,Health systems, 99 
+M3936                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 96,,,,,  4,Emergency, 99  
+M3705                    ,V,H,n/a,,,,,,,,100,Inevitable, 99
+M5814                    ,V,H,Not pregnant or recently delivered,100,07.01 Renal failure, 99,,,,,  1,Health systems, 99 
+M6347                    ,V,H,n/a,,04.02 Stroke, 97,,,,,  3,Health systems, 86 
+M3699                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 66  
+M7455                    ,V,H,n/a,,04.02 Stroke, 50,04.99 Other and unspecified cardiac dis, 41,,,  9,Multiple,
+M3018                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Multiple,
+M4931                    ,V,H,n/a,,03.03 Diabetes mellitus, 98,,,,,  2,Emergency, 92  
+M6919                    ,V,H,n/a,,03.03 Diabetes mellitus, 75,,,,, 25,Knowledge, 99  
+M3148                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 99
+M5519                    ,V,H,n/a,,03.03 Diabetes mellitus, 93,,,,,  7,Emergency, 90  
+M6617                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Multiple,
+M2154                    ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 55,07.01 Renal failure, 35,,, 10,Inevitable, 99
+M4177                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 66,12.01 Road traffic accident, 33,,,  1,Multiple,
+M5866                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Knowledge, 99  
+M7398                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Health systems, 90 
+M6643                    ,V,H,n/a,,03.03 Diabetes mellitus, 97,,,,,  3,Knowledge, 99  
+M940                     ,V,H,n/a,,03.03 Diabetes mellitus, 92,,,,,  8,Knowledge, 98  
+M6211                    ,V,H,n/a,,04.02 Stroke, 87,,,,, 13,Emergency, 99  
+M671                     ,V,H,n/a,,12.03 Accid fall, 86,,,,, 14,Emergency, 99  
+M3425                    ,V,H,Not pregnant or recently delivered,100,02.03 Respiratory neoplasms, 99,,,,,  1,Health systems, 99 
+M10289                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 98  
+M11619                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M11729                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 56,,,,, 44,Knowledge, 70  
+M11131                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+M2807                    ,V,H,n/a,,,,,,,,100,Inevitable, 99
+M161                     ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Emergency, 96  
+M6891                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Inevitable, 96
+M10957                   ,V,H,n/a,,12.04 Accid drowning and submersion, 92,,,,,  8,Emergency, 90  
+M11501                   ,V,H,n/a,,12.03 Accid fall, 98,,,,,  2,Emergency, 99  
+M1112                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Culture, 99
+M2698                    ,V,H,n/a,,02.02 Digestive neoplasms, 92,,,,,  8,Inevitable, 99
+M2767                    ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 55  
+M6597                    ,V,H,n/a,,04.02 Stroke, 97,,,,,  3,Inevitable, 88
+M1693                    ,V,H,n/a,,04.02 Stroke, 98,,,,,  2,Inevitable, 76
+M6519                    ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 98,,,,,  2,Emergency, 99  
+M7648                    ,V,H,n/a,,12.09 Assault, 90,,,,, 10,Emergency, 75  
+M1795                    ,V,H,n/a,,03.03 Diabetes mellitus, 95,,,,,  5,Knowledge, 90  
+M592                     ,V,H,n/a,,12.06 Contact with venomous plant/animal, 98,,,,,  2,Inevitable, 99
+M7024                    ,V,H,n/a,,12.03 Accid fall, 88,,,,, 12,Inevitable, 99
+M296                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Health systems, 90 
+M18                      ,V,H,n/a,,01.07 Meningitis and encephalitis, 98,,,,,  2,Culture, 90
+M5343                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 97
+M5114                    ,V,H,n/a,,12.03 Accid fall, 98,,,,,  2,Emergency, 98  
+M4247                    ,V,H,n/a,,02.02 Digestive neoplasms, 51,01.04 Diarrhoeal diseases, 33,,, 16, Knowledge, 66  
+M11517                   ,V,H,n/a,,12.03 Accid fall, 99,,,,,  1,Emergency, 99  
+M3190                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 95,,,,,  5,Inevitable, 86
+M7003                    ,V,H,n/a,,12.03 Accid fall, 96,,,,,  4,Emergency, 96  
+M2202                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Inevitable, 99
+M4975                    ,V,H,n/a,,12.03 Accid fall, 81,,,,, 19,Inevitable, 66
+M3583                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+M3888                    ,V,H,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 92,,,,,  8,Emergency, 99  
+M6202                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Knowledge, 81  
+M2678                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 66,12.01 Road traffic accident, 33,,,  1,Multiple,
+M745                     ,V,H,Not pregnant or recently delivered,100,03.03 Diabetes mellitus, 99,,,,,  1,Culture, 97
+M6550                    ,V,H,n/a,,12.01 Road traffic accident, 98,,,,,  2,Inevitable, 97
+M4097                    ,V,H,n/a,,12.01 Road traffic accident, 98,,,,,  2,Culture, 99
+M5450                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 93,,,,,  7,Emergency, 99  
+M2296                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 99
+M4936                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.04 Obstetric haemorrhage, 98,,,,,  2,Emergency, 99  
+M6903                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 55,09.04 Obstetric haemorrhage, 44,,,  1,Emergency, 83  
+M2757                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 79,,,,, 21,Health systems, 95 
+M3006                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 99,,,,,  1,Emergency, 99  
+M3417                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.04 Obstetric haemorrhage, 96,,,,,  4,Health systems, 99 
+M7544                    ,V,H,n/a,,04.02 Stroke, 45,01.99 Other and unspecified infect dis, 23,,, 32,Inevitable, 97
+M3139                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M6558                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 54,04.99 Other and unspecified cardiac dis, 34,,, 12,Inevitable, 78
+M6095                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M3767                    ,V,H,n/a,,04.02 Stroke, 83,,,,, 17,Inevitable, 95
+M3832                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 96,,,,,  4,Multiple,
+M4388                    ,V,H,n/a,,,,,,,,100,Knowledge, 65  
+M847                     ,V,H,Not pregnant or recently delivered,100,12.09 Assault, 75,,,,, 25,Emergency, 99  
+M5214                    ,V,H,n/a,,12.09 Assault, 69,,,,, 31,Emergency, 99  
+M7354                    ,V,H,n/a,,04.02 Stroke, 90,,,,, 10,Inevitable, 99
+M2178                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Inevitable, 99
+M7754                    ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 97
+M1444                    ,V,H,n/a,,12.03 Accid fall, 84,,,,, 16,Inevitable, 99
+M5666                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Knowledge, 99  
+M4702                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 99,,,,,  1,Inevitable, 99
+M89                      ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Inevitable, 79
+M5277                    ,V,H,n/a,,12.03 Accid fall, 95,,,,,  5,Inevitable, 97
+M4563                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 55,09.04 Obstetric haemorrhage, 44,,,  1,Emergency, 83  
+M4774                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 85,,,,, 15,Health systems, 98 
+M5777                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.03 Pregnancy-induced hypertension, 99,,,,,  1,Emergency, 99  
+M388                     ,V,H,Pregnancy ended within 6 weeks of death,100,  04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 98 
+M3283                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.04 Obstetric haemorrhage, 97,,,,,  3,Emergency, 96  
+M3215                    ,V,H,Pregnant at death, 99,09.04 Obstetric haemorrhage, 95,,,,,  5,Health systems, 66 
+M3472                    ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 90 
+M4333                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 50,01.02 Acute resp infect incl pneumonia, 49,,,  1,Knowledge, 90  
+M6937                    ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 68
+M3197                    ,V,H,n/a,,02.02 Digestive neoplasms, 58,,,,, 42,Multiple,
+M3855                    ,V,H,n/a,,03.03 Diabetes mellitus, 84,,,,, 16,Knowledge, 99  
+M3353                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M6098                    ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 99  
+M4015                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 61,01.03 HIV/AIDS related death, 38,,,  1,Multiple,
+M5775                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M394                     ,V,H,n/a,,01.07 Meningitis and encephalitis, 95,,,,,  5,Culture, 90
+M6107                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 48,01.02 Acute resp infect incl pneumonia, 48,,,  4,Knowledge, 98  
+M7677                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 90,,,,, 10,Inevitable, 99
+M1850                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 66 
+M3391                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M170                     ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Inevitable, 97
+M4471                    ,V,H,n/a,,02.02 Digestive neoplasms, 76,,,,, 24,Inevitable, 99
+M2269                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 55,,,,, 45,Inevitable, 99
+M4847                    ,V,H,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Inevitable, 96
+M1243                    ,V,H,n/a,,05.01 Chronic obstructive pulmonary dis, 99,,,,,  1,Inevitable, 91
+M7337                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 60,,,,, 40,Inevitable, 96
+M58                      ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M1905                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+M4175                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 62,,,,, 38,Inevitable, 99
+M1107                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 92,,,,,  8,Inevitable, 99
+M7526                    ,V,H,n/a,,02.02 Digestive neoplasms, 96,,,,,  4,Knowledge, 99  
+M1803                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 81,,,,, 19,Knowledge, 62  
+M1623                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 95
+M7601                    ,V,H,n/a,,05.01 Chronic obstructive pulmonary dis, 89,,,,, 11,Health systems, 99 
+M2606                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 99 
+M1898                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 91,,,,,  9,Inevitable, 99
+M285                     ,V,H,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Multiple,
+M6510                    ,V,H,n/a,,02.02 Digestive neoplasms, 82,,,,, 18,Knowledge, 99  
+M5911                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 90 
+M5817                    ,V,H,n/a,,02.03 Respiratory neoplasms, 70,,,,, 30,Knowledge, 95  
+M2771                    ,V,H,n/a,,02.02 Digestive neoplasms, 58,01.03 HIV/AIDS related death, 37,,,  5,Inevitable, 95
+M3867                    ,V,H,n/a,,01.03 HIV/AIDS related death, 97,,,,,  3,Knowledge, 99  
+M5425                    ,V,H,n/a,,02.03 Respiratory neoplasms, 96,,,,,  4,Knowledge, 99  
+M6152                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M275                     ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Inevitable, 99
+M308                     ,V,H,n/a,,02.03 Respiratory neoplasms, 89,,,,, 11,Inevitable, 99
+M2712                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M4321                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M6784                    ,V,H,n/a,,06.02 Liver cirrhosis, 68,,,,, 32,Knowledge, 97  
+M7404                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 56
+M5392                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 98,,,,,  2,Inevitable, 99
+M3682                    ,V,H,n/a,,04.01 Acute cardiac disease, 60,,,,, 40,Inevitable, 97
+M536                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Inevitable, 85
+M7177                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 71,,,,, 29,Inevitable, 99
+M2999                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Health systems, 96 
+M4592                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M3418                    ,V,H,Not pregnant or recently delivered,100,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+M206                     ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 71
+M5016                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 98,,,,,  2,Inevitable, 99
+M7232                    ,V,H,Not pregnant or recently delivered,100,02.04 Breast neoplasms, 88,,,,, 12,Inevitable, 99
+M2876                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 99
+M4539                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 93,,,,,  7,Inevitable, 99
+M762                     ,V,H,n/a,,01.03 HIV/AIDS related death, 86,,,,, 14,Knowledge, 99  
+M4526                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 90  
+M2919                    ,V,H,n/a,,01.03 HIV/AIDS related death, 66,,,,, 34,Inevitable, 99
+M3318                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M835                     ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 82  
+M687                     ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 72,,,,, 28,Knowledge, 99  
+M2415                    ,V,H,n/a,,01.03 HIV/AIDS related death, 74,,,,, 26,Multiple,
+M3357                    ,V,H,n/a,,01.03 HIV/AIDS related death, 48,01.02 Acute resp infect incl pneumonia, 30,,, 22,Culture, 90
+M7007                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 92,,,,,  8,Health systems, 90 
+M6225                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M2216                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Multiple,
+M7143                    ,V,H,n/a,,02.02 Digestive neoplasms, 97,,,,,  3,Inevitable, 96
+M2109                    ,V,H,n/a,,02.02 Digestive neoplasms, 97,,,,,  3,Inevitable, 98
+M4840                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable,100
+M4571                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 97,,,,,  3,Inevitable, 99
+M7543                    ,V,H,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Health systems, 92 
+M5333                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M5934                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 57,,,,, 43,Inevitable, 99
+M6283                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Culture, 90
+M565                     ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 61
+M209                     ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Culture, 90
+M2151                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 99,,,,,  1,Knowledge, 96  
+M6266                    ,V,H,n/a,,02.02 Digestive neoplasms, 93,,,,,  7,Inevitable, 99
+M910                     ,V,H,n/a,,04.02 Stroke, 79,,,,, 21,Inevitable, 99
+M5104                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M902                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M11173                   ,V,H,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 99  
+M311                     ,V,H,n/a,,01.03 HIV/AIDS related death, 79,,,,, 21,Health systems, 90 
+M7329                    ,V,H,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 92,,,,,  8, Knowledge, 76  
+M5967                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 53,06.02 Liver cirrhosis, 41,,,  6,Knowledge, 98  
+M6804                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M3466                    ,V,H,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 93,,,,,  7,Multiple,
+M2342                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Knowledge, 99  
+M10497                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M3932                    ,V,H,n/a,,01.03 HIV/AIDS related death, 77,,,,, 23,Knowledge, 99  
+M416                     ,V,H,n/a,,12.03 Accid fall, 99,,,,,  1,Inevitable, 99
+M1082                    ,V,H,n/a,,12.03 Accid fall, 94,,,,,  6,Emergency, 75  
+M6660                    ,V,H,n/a,,07.01 Renal failure, 88,,,,, 12,Knowledge, 99  
+M3380                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 98,,,,,  2,Inevitable, 99
+M1784                    ,V,H,n/a,,98 Other and unspecified NCD, 90,,,,, 10,Knowledge, 99  
+M10621                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M2355                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 96
+M6909                    ,V,H,n/a,,12.03 Accid fall, 95,,,,,  5,Inevitable, 86
+M10763                   ,V,H,n/a,,03.02 Severe malnutrition, 77,,,,, 23,Knowledge, 99  
+M827                     ,V,H,n/a,,01.03 HIV/AIDS related death, 76,,,,, 24,Knowledge, 88  
+M7531                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Inevitable, 96
+M3825                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M11593                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+M7476                    ,V,H,n/a,,12.01 Road traffic accident, 79,,,,, 21,Health systems, 60 
+M5511                    ,V,H,n/a,,03.03 Diabetes mellitus, 98,,,,,  2,Inevitable, 99
+M2875                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 99
+M10478                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M5204                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Inevitable, 99
+M11715                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M11978                   ,V,H,n/a,,01.07 Meningitis and encephalitis, 99,,,,,  1,Culture, 90
+M11241                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 97,,,,,  3,Knowledge, 96  
+M11882                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 94,,,,,  6,Knowledge, 99  
+M10726                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 96,,,,,  4,Knowledge, 71  
+M11762                   ,V,H,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Inevitable, 98
+M11322                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 82,,,,, 18,Knowledge, 99  
+M10342                   ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M11850                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 71  
+M10984                   ,V,H,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Knowledge, 96  
+M11110                   ,V,H,n/a,,12.03 Accid fall, 95,,,,,  5,Multiple,
+M10440                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+M11143                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M11772                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 95,,,,,  5,Knowledge, 96  
+M11954                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M10529                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 87  
+M12056                   ,V,H,n/a,,01.03 HIV/AIDS related death, 96,,,,,  4,Knowledge, 99  
+M10521                   ,V,H,n/a,,01.03 HIV/AIDS related death, 97,,,,,  3,Knowledge, 99  
+M11742                   ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 71  
+M2553                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 97,,,,,  3, Emergency, 90  
+M11701                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+M11455                   ,V,H,n/a,,01.99 Other and unspecified infect dis, 60,01.02 Acute resp infect incl pneumonia, 37,,,  3,Multiple,
+M3086                    ,V,H,n/a,,03.03 Diabetes mellitus, 93,,,,,  7,Health systems, 82 
+M1840                    ,V,H,n/a,,98 Other and unspecified NCD, 70,,,,, 30,Inevitable, 99
+M5665                    ,V,H,n/a,,07.01 Renal failure, 97,,,,,  3,Knowledge, 99  
+M2042                    ,V,H,n/a,,02.02 Digestive neoplasms, 93,,,,,  7,Emergency, 90  
+M939                     ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+M7765                    ,V,H,n/a,,98 Other and unspecified NCD, 85,,,,, 15,Inevitable, 99
+M3529                    ,V,H,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Inevitable, 99
+M11862                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+M2868                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 56
+M2078                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 94,,,,,  6,Multiple,
+M6662                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 92,,,,,  8,Multiple,
+M2819                    ,V,H,n/a,,98 Other and unspecified NCD, 98,,,,,  2,Knowledge, 99  
+M1728                    ,V,H,n/a,,06.02 Liver cirrhosis, 84,,,,, 16,Inevitable, 99
+M10875                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M4770                    ,V,H,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Inevitable, 71
+M7722                    ,V,H,n/a,,04.02 Stroke, 98,,,,,  2,Emergency, 99  
+M2219                    ,V,H,Not pregnant or recently delivered,100,07.01 Renal failure, 99,,,,,  1,Emergency, 99  
+M1012                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 57
+M10855                   ,V,H,n/a,,10.06 Congenital malformation, 68,,,,, 32,Emergency, 99  
+M10013                   ,V,H,n/a,,01.03 HIV/AIDS related death, 89,,,,, 11,Knowledge, 99  
+M6404                    ,V,H,n/a,,06.02 Liver cirrhosis, 70,,,,, 30,Multiple,
+M6241                    ,V,H,n/a,,06.01 Acute abdomen, 93,,,,,  7,Knowledge, 95  
+M6812                    ,V,H,n/a,,12.03 Accid fall, 88,,,,, 12,Emergency, 75  
+M11027                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 84,,,,, 16,Knowledge, 99  
+M4369                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 68,,,,, 32,Knowledge, 90  
+M2051                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 43,01.03 HIV/AIDS related death, 33,,, 24,Inevitable, 96
+M3156                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Emergency, 85  
+M6687                    ,V,H,n/a,,01.03 HIV/AIDS related death, 91,,,,,  9,Knowledge, 99  
+M595                     ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 70,,,,, 30,Emergency, 99  
+M6434                    ,V,H,n/a,,02.02 Digestive neoplasms, 97,,,,,  3,Knowledge, 99  
+M795                     ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 80,,,,, 20,Emergency, 97  
+M7178                    ,V,H,Not pregnant or recently delivered,100,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M2340                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 94,,,,,  6,Knowledge, 90  
+M6825                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 96,,,,,  4,Multiple,
+M1913                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Multiple,
+M7387                    ,V,H,n/a,,01.03 HIV/AIDS related death, 43,01.09 Pulmonary tuberculosis, 27,,, 30,Inevitable, 99
+M10560                   ,V,H,n/a,,01.99 Other and unspecified infect dis, 96,,,,,  4,Emergency, 90  
+M1312                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M5406                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 96
+M2723                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 66,01.03 HIV/AIDS related death, 33,,,  1,Knowledge, 99  
+M832                     ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M2640                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 97,,,,,  3,Inevitable, 95
+M10870                   ,V,H,n/a,,01.07 Meningitis and encephalitis, 90,,,,, 10,Multiple,
+M4552                    ,V,H,n/a,,02.03 Respiratory neoplasms, 60,01.09 Pulmonary tuberculosis, 39,,,  1,Knowledge, 90  
+M1645                    ,V,H,n/a,,,,,,,,100,Inevitable, 97
+M7492                    ,V,H,n/a,,04.02 Stroke, 68,,,,, 32,Inevitable, 99
+M6840                    ,V,H,n/a,,04.02 Stroke, 98,,,,,  2,Knowledge, 90  
+M7501                    ,V,H,n/a,,03.03 Diabetes mellitus, 62,04.02 Stroke, 37,,,  1,Inevitable, 97
+M4948                    ,V,H,n/a,,04.02 Stroke, 76,,,,, 24,Inevitable, 99
+M6556                    ,V,H,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Health systems, 99 
+M714                     ,V,H,Not pregnant or recently delivered,100,07.01 Renal failure, 97,,,,,  3,Multiple,
+M5567                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 90 
+M6738                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 99  
+M3387                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4453                    ,V,H,Not pregnant or recently delivered,100,04.99 Other and unspecified cardiac dis, 49,98 Other and unspecified NCD, 48,,,  3,Health systems, 99 
+M676                     ,V,H,n/a,,98 Other and unspecified NCD, 82,,,,, 18,Culture, 84
+M7063                    ,V,H,n/a,,03.03 Diabetes mellitus, 43,04.99 Other and unspecified cardiac dis, 34,,, 23,Knowledge, 79  
+M2142                    ,V,H,n/a,,04.02 Stroke, 88,,,,, 12,Emergency, 92  
+M3201                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 76,,,,, 24,Knowledge, 99  
+M1322                    ,V,H,Pregnant at death, 99,09.02 Abortion-related death, 71,,,,, 29,Health systems, 94 
+M1431                    ,V,H,Pregnant at death, 99,09.02 Abortion-related death, 90,,,,, 10,Knowledge, 98  
+M794                     ,V,H,Pregnancy ended within 6 weeks of death,100,  09.03 Pregnancy-induced hypertension, 99,,,,,  1,Health systems, 99 
+M4722                    ,V,H,Pregnant at death, 99,09.02 Abortion-related death, 79,,,,, 21,Health systems, 99 
+M6787                    ,V,H,Pregnancy ended within 6 weeks of death,100,  09.02 Abortion-related death, 90,,,,, 10,Emergency, 99  
+M10466                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 85,,,,, 15,Knowledge, 96  
+M2796                    ,V,H,n/a,,02.02 Digestive neoplasms, 92,,,,,  8,Inevitable, 85
+M4583                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 75
+M1147                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 98,,,,,  2, Knowledge, 98  
+M442                     ,V,H,n/a,,98 Other and unspecified NCD, 51,,,,, 49,Inevitable, 99
+M6653                    ,V,H,n/a,,07.01 Renal failure, 98,,,,,  2,Knowledge, 90  
+M610                     ,V,H,n/a,,02.02 Digestive neoplasms, 69,,,,, 31,Knowledge, 98  
+M1284                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 82 
+M6422                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 98,,,,,  2,Inevitable, 99
+M1637                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Multiple,
+M2696                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 94,,,,,  6,Multiple,
+M1807                    ,V,H,n/a,,04.02 Stroke, 97,,,,,  3,Knowledge, 75  
+M1753                    ,V,H,n/a,,06.02 Liver cirrhosis, 97,,,,,  3,Emergency, 99  
+M3759                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+M1996                    ,V,H,n/a,,04.02 Stroke, 73,,,,, 27,Knowledge, 99  
+M2242                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Emergency, 98  
+M3701                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 71,,,,, 29,Emergency, 99  
+M1332                    ,V,H,n/a,,06.02 Liver cirrhosis, 68,,,,, 32,Knowledge, 99  
+M2829                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 99 
+M837                     ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Culture, 83
+M3327                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 46,02.99 Other and unspecified neoplasms, 44,,, 10,    Knowledge, 60  
+M4216                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Health systems, 98 
+M5150                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M7305                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 82,,,,, 18,Knowledge, 62  
+M11750                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Health systems, 66 
+M5529                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 98,,,,,  2,Knowledge, 99  
+M316                     ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 56,,,,, 44,Culture, 99
+M3814                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M2473                    ,V,H,n/a,,01.03 HIV/AIDS related death, 75,,,,, 25,Knowledge, 98  
+M3193                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Knowledge, 99  
+M624                     ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 59,04.99 Other and unspecified cardiac dis, 38,,,  3,Inevitable, 98
+M665                     ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Emergency, 99  
+M3709                    ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M6951                    ,V,H,n/a,,06.02 Liver cirrhosis, 55,,,,, 45,Inevitable, 99
+M2205                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 93,,,,,  7,Emergency, 99  
+M1742                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M7702                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 99 
+M5821                    ,V,H,n/a,,98 Other and unspecified NCD, 59,,,,, 41,Multiple,
+M1465                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Culture, 90
+M10100                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 77,,,,, 23,Knowledge, 99  
+M4412                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 83,,,,, 17,Knowledge, 83  
+M10143                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 90  
+M10194                   ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Knowledge, 99  
+M1304                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Multiple,
+M10766                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 66,01.99 Other and unspecified infect dis, 33,,,  1,Multiple,
+M11512                   ,V,H,n/a,,01.10 Pertussis, 93,,,,,  7,Health systems, 79 
+M1768                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 83 
+M5459                    ,V,H,n/a,,03.03 Diabetes mellitus, 75,,,,, 25,Health systems, 89 
+M5266                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 86
+M3564                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M1047                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 83,,,,, 17,Emergency, 60  
+M2419                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Inevitable, 99
+M1485                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 84,,,,, 16,Health systems, 88 
+M11595                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 88  
+M11948                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M491                     ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Multiple,
+M5600                    ,V,H,n/a,,06.01 Acute abdomen, 43,01.04 Diarrhoeal diseases, 34,,, 23,  Inevitable, 82
+M11634                   ,V,H,n/a,,03.02 Severe malnutrition, 98,,,,,  2,Knowledge, 96  
+M10829                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Knowledge, 99  
+M5520                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M5339                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M10523                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Multiple,
+M2438                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 91,,,,,  9,Inevitable, 78
+M10825                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 83  
+M7253                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Emergency, 99  
+M2470                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 97  
+M3868                    ,V,H,n/a,,02.02 Digestive neoplasms, 95,,,,,  5,Knowledge, 99  
+M38                      ,V,H,n/a,,01.09 Pulmonary tuberculosis, 84,,,,, 16,Health systems, 90 
+M5791                    ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 83  
+M5225                    ,V,H,n/a,,01.03 HIV/AIDS related death, 88,,,,, 12,Knowledge, 98  
+M7466                    ,V,H,n/a,,04.01 Acute cardiac disease, 75,,,,, 25,Knowledge, 97  
+M3050                    ,V,H,Not pregnant or recently delivered,100,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Health systems, 64 
+M279                     ,V,H,n/a,,12.01 Road traffic accident, 44,,,,, 56,Inevitable, 99
+M4934                    ,V,H,n/a,,02.02 Digestive neoplasms, 94,,,,,  6,Multiple,
+M3372                    ,V,H,n/a,,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 98  
+M3993                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Emergency, 87  
+M7559                    ,V,H,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 91,,,,,  9,Emergency, 98  
+M7112                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M3550                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 87,,,,, 13,Inevitable, 99
+M20264                   ,V,H,n/a,,,,,,,,100,Health systems, 99 
+M21540                   ,V,H,n/a,,10.01 Prematurity, 92,,,,,  8,Emergency, 98  
+M21868                   ,V,H,n/a,,10.06 Congenital malformation, 99,,,,,  1,Emergency, 99  
+M22282                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 81  
+M20862                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+M22198                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M20423                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 90 
+M20698                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M22445                   ,V,H,n/a,,10.01 Prematurity, 88,,,,, 12,Emergency, 99  
+M21519                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M20798                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Multiple,
+M21434                   ,V,H,n/a,,10.02 Birth asphyxia, 86,,,,, 14,Health systems, 99 
+M22397                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M21076                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M20674                   ,V,H,n/a,,10.01 Prematurity, 67,,,,, 33,Health systems, 96 
+M20758                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+M21981                   ,V,H,n/a,,10.02 Birth asphyxia, 95,,,,,  5,Emergency, 88  
+M20196                   ,V,H,n/a,,10.02 Birth asphyxia, 95,,,,,  5,Emergency, 88  
+M21066                   ,V,H,n/a,,10.01 Prematurity, 95,,,,,  5,Emergency, 99  
+M21349                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 90  
+M20009                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Multiple,
+M22108                   ,V,H,n/a,,10.02 Birth asphyxia, 79,,,,, 21,Emergency, 97  
+M22252                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 89  
+M21723                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 95  
+M21505                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Inevitable, 90
+M21188                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M21180                   ,V,H,n/a,,10.04 Neonatal sepsis, 99,,,,,  1,Health systems, 98 
+M20663                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M20777                   ,V,H,n/a,,10.01 Prematurity, 66,,,,, 34,Health systems, 90 
+M20602                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Emergency, 99  
+M22016                   ,V,H,n/a,,10.02 Birth asphyxia, 66,10.01 Prematurity, 33,,,  1,Emergency, 99  
+M20477                   ,V,H,n/a,,10.01 Prematurity, 97,,,,,  3,Health systems, 99 
+M20611                   ,V,H,n/a,,10.01 Prematurity, 74,,,,, 26,Health systems, 99 
+M21157                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M21905                   ,V,H,n/a,,,,,,,,100,Emergency, 94  
+M22525                   ,V,H,n/a,,10.02 Birth asphyxia, 60,10.01 Prematurity, 39,,,  1,Inevitable, 90
+M21499                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M22022                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 73  
+M21783                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Multiple,
+M22009                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M22578                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M20453                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M20925                   ,V,H,n/a,,10.01 Prematurity,100,,,,,  0,Emergency, 88  
+M21687                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M20153                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 90 
+M22470                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 90 
+M20640                   ,V,H,n/a,,10.01 Prematurity, 98,,,,,  2,Health systems, 99 
+M21972                   ,V,H,n/a,,10.99 Other and unspecified neonatal CoD, 49,10.04 Neonatal sepsis, 49,,,  2,Health systems, 99 
+M21883                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Multiple,
+M20292                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M21435                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 99 
+M21082                   ,V,H,n/a,,,,,,,,100,Emergency, 99  
+M20502                   ,V,H,n/a,,10.99 Other and unspecified neonatal CoD, 97,,,,,  3,Emergency, 61  
+M21752                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Health systems, 99 
+M21071                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Emergency, 99  
+M21874                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 90 
+M21089                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Emergency, 55  
+M21526                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 71 
+M21811                   ,V,H,n/a,,10.01 Prematurity, 99,,,,,  1,Health systems, 99 
+M2653                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 62,,,,, 38,Inevitable, 82
+M5248                    ,V,H,n/a,,02.03 Respiratory neoplasms, 99,,,,,  1,Knowledge, 98  
+M7826                    ,V,H,n/a,,02.03 Respiratory neoplasms, 95,,,,,  5,Multiple,
+M4228                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 87  
+M7301                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 98
+M5828                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 47,01.03 HIV/AIDS related death, 46,,,  7,Inevitable, 99
+M4657                    ,V,H,Not pregnant or recently delivered,100,07.01 Renal failure, 75,,,,, 25,Knowledge, 98  
+M6657                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 99  
+M4280                    ,V,H,n/a,,98 Other and unspecified NCD, 90,,,,, 10,Health systems, 79 
+M3081                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 50,98 Other and unspecified NCD, 49,,,  1,Inevitable, 86
+M6648                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 74
+M3760                    ,V,H,n/a,,02.02 Digestive neoplasms, 69,,,,, 31,Health systems, 90 
+M7426                    ,V,H,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 96,,,,,  4,Multiple,
+M621                     ,V,H,n/a,,06.02 Liver cirrhosis, 49,98 Other and unspecified NCD, 48,,,  3,Knowledge, 99  
+M2144                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M2534                    ,V,H,n/a,,98 Other and unspecified NCD, 95,,,,,  5,Knowledge, 99  
+M2480                    ,V,H,n/a,,01.03 HIV/AIDS related death, 98,,,,,  2,Knowledge, 98  
+M7633                    ,V,H,n/a,,02.99 Other and unspecified neoplasms, 67,,,,, 33,Knowledge, 99  
+M6027                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 66
+M6526                    ,V,H,n/a,,01.03 HIV/AIDS related death, 90,,,,, 10,Knowledge, 99  
+M6523                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M668                     ,V,H,n/a,,98 Other and unspecified NCD, 66,04.99 Other and unspecified cardiac dis, 33,,,  1,Inevitable, 96
+M7201                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M5541                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M951                     ,V,H,n/a,,98 Other and unspecified NCD, 58,02.05 & 02.06 Reproductive neoplasms MF, 39,,,  3,   Inevitable, 99
+M1851                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Emergency, 97  
+M7480                    ,V,H,n/a,,04.02 Stroke, 98,,,,,  2,Knowledge, 99  
+M4050                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 99,,,,,  1,Multiple,
+M2631                    ,V,H,n/a,,04.02 Stroke, 93,,,,,  7,Emergency, 75  
+M2434                    ,V,H,n/a,,98 Other and unspecified NCD, 96,,,,,  4,Knowledge, 90  
+M534                     ,V,H,n/a,,05.01 Chronic obstructive pulmonary dis, 99,,,,,  1,Health systems, 99 
+M1572                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 75,,,,, 25,Knowledge, 89  
+M2119                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 99 
+M4747                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Health systems, 96 
+M4099                    ,V,H,n/a,,01.03 HIV/AIDS related death, 97,,,,,  3,Emergency, 82  
+M2928                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 98,,,,,  2,Health systems, 90 
+M2148                    ,V,H,n/a,,01.03 HIV/AIDS related death, 95,,,,,  5,Knowledge, 99  
+M3660                    ,V,H,n/a,,02.02 Digestive neoplasms, 81,,,,, 19,Knowledge, 99  
+M3865                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M4271                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Health systems, 98 
+M2642                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 98  
+M7782                    ,V,H,n/a,,,,,,,,100,Knowledge, 70  
+M6324                    ,V,H,n/a,,12.03 Accid fall, 97,,,,,  3,Emergency, 60  
+M5404                    ,V,H,n/a,,02.02 Digestive neoplasms, 96,,,,,  4,Inevitable, 99
+M5528                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 61,,,,, 39,Multiple,
+M822                     ,V,H,n/a,,07.01 Renal failure, 99,,,,,  1,Knowledge, 97  
+M6568                    ,V,H,n/a,,98 Other and unspecified NCD, 99,,,,,  1,Inevitable, 99
+M7370                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 90  
+M1609                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 54,04.99 Other and unspecified cardiac dis, 44,,,  2,Knowledge, 90  
+M6629                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Culture, 98
+M6234                    ,V,H,n/a,,01.03 HIV/AIDS related death, 71,,,,, 29,Knowledge, 98  
+M2271                    ,V,H,Not pregnant or recently delivered,100,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M6153                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Emergency, 90  
+M4534                    ,V,H,n/a,,07.01 Renal failure, 54,01.03 HIV/AIDS related death, 44,,,  2,Knowledge, 76  
+M4194                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 99  
+M10321                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 98,,,,,  2,Multiple,
+M5245                    ,V,H,n/a,,01.03 HIV/AIDS related death, 95,,,,,  5,Knowledge, 83  
+M7157                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M7591                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 87,,,,, 13,Inevitable, 99
+M991                     ,V,H,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 65,01.03 HIV/AIDS related death, 33,,,  2,Inevitable, 78
+M3999                    ,V,H,n/a,,12.03 Accid fall, 98,,,,,  2,Inevitable, 96
+M5487                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 98  
+M2293                    ,V,H,n/a,,12.01 Road traffic accident, 97,,,,,  3,Inevitable, 99
+M5035                    ,V,H,n/a,,12.01 Road traffic accident, 95,,,,,  5,Inevitable, 99
+M22227                   ,V,H,n/a,,10.04 Neonatal sepsis, 99,,,,,  1,Health systems, 90 
+M21846                   ,V,H,n/a,,10.02 Birth asphyxia, 99,,,,,  1,Inevitable, 65
+M12051                   ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 99,,,,,  1,Knowledge, 71  
+M10376                   ,V,H,n/a,,03.02 Severe malnutrition, 99,,,,,  1,Culture, 89
+M10969                   ,V,H,n/a,,03.02 Severe malnutrition, 66,01.03 HIV/AIDS related death, 33,,,  1,Knowledge, 99  
+M10216                   ,V,H,n/a,,01.99 Other and unspecified infect dis, 53,01.04 Diarrhoeal diseases, 41,,,  6,Knowledge, 99  
+M11745                   ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Knowledge, 99  
+M20594                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20299                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20006                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20297                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20520                   ,V,H,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+M21775                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20703                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20779                   ,V,H,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+M21445                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M22534                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M22213                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M22614                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M21262                   ,V,H,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+M21842                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Inevitable, 83
+M21748                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20447                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M21776                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M21177                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M22099                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20016                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M21533                   ,V,H,n/a,,10.06 Congenital malformation, 99,,,,,  1,Emergency, 96  
+M20704                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M21628                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20359                   ,V,H,n/a,,11.01 Fresh stillbirth, 98,,,,,  2,Inevitable, 99
+M20370                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M22435                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M22113                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20876                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M20787                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M21227                   ,V,H,n/a,,11.01 Fresh stillbirth, 95,,,,,  5,Inevitable, 99
+M21699                   ,V,H,n/a,,11.01 Fresh stillbirth, 83,,,,, 17,Inevitable, 99
+M20357                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M21959                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M21720                   ,V,H,n/a,,11.02 Macerated stillbirth,100,,,,,  0,Inevitable, 99
+M21363                   ,V,H,n/a,,10.06 Congenital malformation,100,,,,,  0,Health systems, 89 
+M3237                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 76,,,,, 24,Inevitable, 70
+M1158                    ,V,H,n/a,,02.02 Digestive neoplasms, 96,,,,,  4,Inevitable, 99
+M4472                    ,V,H,n/a,,02.02 Digestive neoplasms, 83,,,,, 17,Knowledge, 98  
+M7748                    ,V,H,n/a,,01.04 Diarrhoeal diseases, 98,,,,,  2,Inevitable, 99
+M2611                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Knowledge, 99  
+M4950                    ,V,H,n/a,,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 98  
+M2558                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 83,,,,, 17,Inevitable, 97
+M3392                    ,V,H,n/a,,98 Other and unspecified NCD, 58,02.02 Digestive neoplasms, 37,,,  5, Knowledge, 99  
+M5825                    ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 99
+M820                     ,V,H,n/a,,06.02 Liver cirrhosis, 96,,,,,  4,Inevitable, 99
+M4603                    ,V,H,n/a,,07.01 Renal failure, 73,,,,, 27,Inevitable, 94
+M7769                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 59
+M7491                    ,V,H,n/a,,02.05 & 02.06 Reproductive neoplasms MF, 72,,,,, 28, Inevitable, 99
+M2688                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Inevitable, 96
+M6528                    ,V,H,n/a,,04.01 Acute cardiac disease, 61,06.02 Liver cirrhosis, 30,,,  9,Knowledge, 99  
+M7817                    ,V,H,n/a,,02.02 Digestive neoplasms, 99,,,,,  1,Multiple,
+M826                     ,V,H,Not pregnant or recently delivered,100,02.02 Digestive neoplasms, 99,,,,,  1,Health systems, 95 
+M64                      ,V,H,n/a,,12.09 Assault, 99,,,,,  1,Emergency, 99  
+M1166                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M2490                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 99,,,,,  1,Inevitable, 61
+M2601                    ,V,H,n/a,,04.02 Stroke, 79,,,,, 21,Knowledge, 93  
+M7059                    ,V,H,n/a,,04.02 Stroke, 86,,,,, 14,Culture, 98
+M591                     ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M576                     ,V,H,n/a,,01.99 Other and unspecified infect dis, 76,,,,, 24,Multiple,
+M636                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Emergency, 55  
+M7228                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M326                     ,V,H,n/a,,04.01 Acute cardiac disease, 69,,,,, 31,Culture, 75
+M164                     ,V,H,n/a,,12.03 Accid fall, 96,,,,,  4,Inevitable, 99
+M6882                    ,V,H,n/a,,12.03 Accid fall, 95,,,,,  5,Inevitable, 98
+M7655                    ,V,H,n/a,,04.02 Stroke, 73,,,,, 27,Multiple,
+M1625                    ,V,H,n/a,,01.03 HIV/AIDS related death, 99,,,,,  1,Inevitable, 99
+M2087                    ,V,H,n/a,,01.99 Other and unspecified infect dis, 73,,,,, 27,Knowledge, 98  
+M6263                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 95,,,,,  5,Multiple,
+M2225                    ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 70,,,,, 30,Inevitable, 99
+M4509                    ,V,H,n/a,,04.02 Stroke, 54,,,,, 46,Culture, 90
+M5038                    ,V,H,n/a,,04.02 Stroke, 97,,,,,  3,Inevitable, 78
+M7734                    ,V,H,n/a,,04.02 Stroke, 71,,,,, 29,Emergency, 99  
+M4434                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 45,,,,, 55,Inevitable, 99
+M7394                    ,V,H,n/a,,04.02 Stroke, 98,,,,,  2,Inevitable, 99
+M790                     ,V,H,n/a,,03.03 Diabetes mellitus, 96,,,,,  4,Inevitable, 99
+M4890                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M2035                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M4470                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 81,,,,, 19,Inevitable, 99
+M7153                    ,V,H,Not pregnant or recently delivered,100,12.03 Accid fall, 85,,,,, 15,Culture, 76
+M5715                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 45,12.03 Accid fall, 36,,, 19,Inevitable, 99
+M2250                    ,V,H,n/a,,12.01 Road traffic accident, 99,,,,,  1,Inevitable, 99
+M6843                    ,V,H,Not pregnant or recently delivered,100,02.05 & 02.06 Reproductive neoplasms MF, 99,,,,,  1, Knowledge, 99  
+M4437                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M5513                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Culture, 90
+M3062                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 66,,,,, 34,Knowledge, 90  
+M986                     ,V,H,n/a,,04.02 Stroke, 44,04.01 Acute cardiac disease, 29,,, 27,Emergency, 75  
+M2635                    ,V,H,n/a,,04.02 Stroke, 65,04.99 Other and unspecified cardiac dis, 33,,,  2,Inevitable, 99
+M4396                    ,V,H,n/a,,12.03 Accid fall, 51,04.01 Acute cardiac disease, 41,,,  8,Inevitable, 99
+M286                     ,V,H,n/a,,04.02 Stroke, 93,,,,,  7,Culture, 95
+M5920                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Health systems, 90 
+M6820                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 79,,,,, 21,Inevitable, 99
+M6603                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M2602                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 79,,,,, 21,Knowledge, 99  
+M537                     ,V,H,n/a,,04.02 Stroke, 75,,,,, 25,Inevitable, 99
+M6512                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M2196                    ,V,H,n/a,,12.03 Accid fall, 91,,,,,  9,Multiple,
+M5034                    ,V,H,n/a,,12.03 Accid fall, 85,,,,, 15,Inevitable, 99
+M5346                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 96
+M5770                    ,V,H,n/a,,04.02 Stroke, 49,04.99 Other and unspecified cardiac dis, 31,,, 20,Multiple,
+M7475                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 99
+M5907                    ,V,H,n/a,,12.03 Accid fall, 99,,,,,  1,Inevitable, 99
+M4495                    ,V,H,n/a,,12.01 Road traffic accident, 94,,,,,  6,Inevitable, 94
+M6734                    ,V,H,n/a,,04.02 Stroke, 99,,,,,  1,Inevitable, 78
+M6489                    ,V,H,n/a,,01.02 Acute resp infect incl pneumonia, 93,,,,,  7,Culture, 90
+M5769                    ,V,H,n/a,,98 Other and unspecified NCD, 98,,,,,  2,Knowledge, 98  
+M6745                    ,V,H,n/a,,12.03 Accid fall, 99,,,,,  1,Inevitable, 99
+M5756                    ,V,H,n/a,,04.02 Stroke, 65,01.99 Other and unspecified infect dis, 33,,,  2,Knowledge, 99  
+M915                     ,V,H,n/a,,12.08 Intentional self-harm, 96,,,,,  4,Emergency, 99  
+M7658                    ,V,H,n/a,,04.02 Stroke, 47,12.01 Road traffic accident, 47,,,  6,Emergency, 99  
+M2501                    ,V,H,n/a,,12.08 Intentional self-harm, 97,,,,,  3,Emergency, 98  
+M4469                    ,V,H,n/a,,12.05 Accid expos to smoke fire & flame, 82,,,,, 18,Emergency, 57  
+M53                      ,V,H,Not pregnant or recently delivered,100,04.01 Acute cardiac disease, 99,,,,,  1,Emergency, 99  
+M6370                    ,V,H,Not pregnant or recently delivered,100,01.99 Other and unspecified infect dis, 98,,,,,  2,Emergency, 99  
+M6256                    ,V,H,Not pregnant or recently delivered,100,06.02 Liver cirrhosis, 99,,,,,  1,Knowledge, 97  
+M5055                    ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 99,,,,,  1,Inevitable, 99
+M7439                    ,V,H,Not pregnant or recently delivered,100,04.02 Stroke, 83,,,,, 17,Culture, 90
+M7004                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Knowledge, 99  
+M5699                    ,V,H,n/a,,12.01 Road traffic accident, 92,,,,,  8,Knowledge, 99  
+M5555                    ,V,H,Not pregnant or recently delivered,100,01.09 Pulmonary tuberculosis, 99,,,,,  1,Inevitable, 78
+M838                     ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 99 
+M146                     ,V,H,n/a,,04.99 Other and unspecified cardiac dis, 95,,,,,  5,Health systems, 99 
+M6066                    ,V,H,n/a,,03.03 Diabetes mellitus, 99,,,,,  1,Inevitable, 95
+M2094                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 98,,,,,  2,Inevitable, 99
+M4813                    ,V,H,Not pregnant or recently delivered,100,98 Other and unspecified NCD, 98,,,,,  2,Knowledge, 99  
+M3877                    ,V,H,n/a,,01.09 Pulmonary tuberculosis, 99,,,,,  1,Health systems, 90 
+
