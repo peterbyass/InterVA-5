@@ -2,8 +2,8 @@
 
 # Resources relating to InterVA-5 verbal autopsy software
 
-## These are Supplementary Materials for the paper: 
-## "An integrated approach to processing WHO-2016 verbal autopsy data: the InterVA-5 model"
+## These are Supplementary Materials for the BMC Medicine paper: 
+## ["An integrated approach to processing WHO-2016 verbal autopsy data: the InterVA-5 model"](https://rdcu.be/bFdxY)
 
 ## Resources are organised in the following sub-folders:
 
