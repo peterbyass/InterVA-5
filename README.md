@@ -5,6 +5,8 @@
 ## These are Supplementary Materials for the BMC Medicine paper: 
 ## ["An integrated approach to processing WHO-2016 verbal autopsy data: the InterVA-5 model"](https://rdcu.be/bFdxY)
 
+## The current version of the software package is InterVA-5.1 (9 April 2020)
+
 ## Resources are organised in the following sub-folders:
 
 ### [Demonstration of InterVA-5 concepts](https://github.com/peterbyass/InterVA-5/tree/master/Demonstration%20of%20InterVA-5%20concepts)
